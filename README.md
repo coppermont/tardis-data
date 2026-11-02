@@ -8,7 +8,7 @@ Daily snapshot of the interactive world history timeline: https://tardis.hi-curi
   only when the data changed.
 
 Tardis builds its region pages (`/history/…`) from this file via `TIMELINE_URL`:
-https://raw.githubusercontent.com/Eyasics/tardis-data/main/timeline.json
+https://raw.githubusercontent.com/coppermont/tardis-data/main/timeline.json
 
 ## License
 
