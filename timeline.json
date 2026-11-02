@@ -1263,6 +1263,31 @@
   ],
   "items": [
     {
+      "id": "i-la-tam-pa-ling",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "塔姆帕林洞",
+        "english": "Tam Pa Ling Cave",
+        "spanish": "Cueva de Tam Pa Ling"
+      },
+      "note": {
+        "chinese": "出土早期现代人化石，属东南亚最古老之列，表明人类约6万年前已到达该地区。年代为约数。",
+        "english": "Fossils of early modern humans, among the oldest in Southeast Asia; they suggest people reached the region by 60,000 years ago. Dates approximate.",
+        "spanish": "Fósiles de humanos modernos tempranos, de los más antiguos del Sudeste Asiático; indican que llegaron a la región hace unos 60.000 años. Fechas aproximadas."
+      },
+      "startYear": -67999,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -43999,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tam_Pa_Ling_Cave"
+    },
+    {
       "id": "i-au-aboriginal",
       "groupId": "g-australia",
       "label": {
@@ -2322,6 +2347,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Hallstatt_culture"
+    },
+    {
+      "id": "i-mn-deer-stones",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "鹿石",
+        "english": "Deer stones",
+        "spanish": "Piedras de ciervos"
+      },
+      "note": {
+        "chinese": "青铜时代的雕刻巨石，多立于赫列克苏尔石冢旁；已知1500块中有1300块位于蒙古。年代为约数。",
+        "english": "Carved Bronze Age megaliths beside khirigsuur burial mounds; 1,300 of the 1,500 known stand in Mongolia. Dates approximate.",
+        "spanish": "Megalitos tallados de la Edad del Bronce junto a túmulos khirigsuur; 1300 de los 1500 conocidos están en Mongolia. Fechas aproximadas."
+      },
+      "startYear": -1199,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -699,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Deer_stones_culture"
     },
     {
       "id": "i-tr-lydia",
@@ -3594,13 +3644,13 @@
       "startYear": -499,
       "startMonth": null,
       "startDay": null,
-      "endYear": 500,
+      "endYear": 800,
       "endMonth": null,
       "endDay": null,
       "kind": "other",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Plain_of_Jars"
     },
     {
@@ -4252,13 +4302,13 @@
       "startYear": -208,
       "startMonth": null,
       "startDay": null,
-      "endYear": 91,
+      "endYear": 93,
       "endMonth": null,
       "endDay": null,
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Xiongnu"
     },
     {
@@ -5487,6 +5537,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-mn-xianbei",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "鲜卑",
+        "english": "Xianbei state",
+        "spanish": "Estado xianbei"
+      },
+      "note": {
+        "chinese": "鲜卑击败匈奴后，在檀石槐统领下形成草原政权。",
+        "english": "After defeating the Xiongnu, the Xianbei are united under Tanshihuai into a steppe state.",
+        "spanish": "Tras vencer a los xiongnu, los xianbei se unen bajo Tanshihuai en un Estado de la estepa."
+      },
+      "startYear": 147,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 234,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Mongolia#Xianbei_(147%E2%80%93234)"
+    },
+    {
       "id": "i-gt-tikal",
       "groupId": "g-guatemala",
       "label": {
@@ -5854,7 +5929,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/Rouran_Khaganate"
     },
     {
@@ -6308,6 +6383,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Early_Slavs"
     },
     {
+      "id": "i-by-early-slavs",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "克里维奇人、德列戈维奇人和拉迪米奇人",
+        "english": "Krivichs, Dregovichs and Radimichs",
+        "spanish": "Krívichos, dregóvichos y radímichos"
+      },
+      "note": {
+        "chinese": "东斯拉夫部落定居于当地波罗的人之间，白俄罗斯民族后来由此形成。6至8世纪，年代为约数。",
+        "english": "East Slavic tribes settle among local Balts; the Belarusian people later forms from them. 6th–8th centuries; dates approximate.",
+        "spanish": "Tribus eslavas orientales se asientan entre los baltos locales; de ellas surge más tarde el pueblo bielorruso. Siglos VI–VIII; fechas aproximadas."
+      },
+      "startYear": 500,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 987,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus#Early_Slavs"
+    },
+    {
       "id": "i-cl-mapuche",
       "groupId": "g-chile",
       "label": {
@@ -6494,7 +6594,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks"
     },
     {
@@ -6589,6 +6689,56 @@
       "lane": null,
       "sortOrder": -3,
       "sourceUrl": "https://en.wikipedia.org/wiki/Dvaravati"
+    },
+    {
+      "id": "i-la-vat-phou",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "瓦普庙",
+        "english": "Vat Phou",
+        "spanish": "Vat Phou"
+      },
+      "note": {
+        "chinese": "占巴塞的高棉印度教神庙群，围绕圣泉而建；最早的砖砌建筑建于7世纪。年代为约数。",
+        "english": "A Khmer Hindu temple complex in Champasak, built around a sacred spring; its first brick building dates from the 7th century. Dates approximate.",
+        "spanish": "Un complejo de templos hindúes jemeres en Champasak, en torno a un manantial sagrado; su primer edificio de ladrillo es del siglo VII. Fechas aproximadas."
+      },
+      "startYear": 600,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vat_Phou"
+    },
+    {
+      "id": "i-la-tai-migrations",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "傣泰民族南迁",
+        "english": "Tai migrations",
+        "spanish": "Migraciones tai"
+      },
+      "note": {
+        "chinese": "包括老族在内的傣泰民族从云南、广西南迁；其传说中的始祖是坤博隆。年代为约数。",
+        "english": "Tai peoples, the Lao among them, move south from Yunnan and Guangxi; their legendary forefather is Khun Borom. Dates approximate.",
+        "spanish": "Los pueblos tai, entre ellos los lao, migran al sur desde Yunnan y Guangxi; su antepasado legendario es Khun Borom. Fechas aproximadas."
+      },
+      "startYear": 600,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1300,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_people"
     },
     {
       "id": "i-hin-bhakti-south",
@@ -7430,7 +7580,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 5,
       "sourceUrl": "https://en.wikipedia.org/wiki/Uyghur_Khaganate"
     },
     {
@@ -8349,6 +8499,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-mn-liao",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "辽朝",
+        "english": "Liao dynasty",
+        "spanish": "Dinastía Liao"
+      },
+      "note": {
+        "chinese": "契丹人建立的帝国，统治蒙古高原、满洲和中国华北北端。",
+        "english": "A Khitan empire that rules the Mongolian Plateau, Manchuria and the northern tip of China.",
+        "spanish": "Un imperio kitán que domina la meseta mongola, Manchuria y el extremo norte de China."
+      },
+      "startYear": 916,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1125,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 6,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Liao_dynasty"
+    },
+    {
       "id": "i-kr-goryeo",
       "groupId": "g-korea",
       "label": {
@@ -8664,6 +8839,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Ghaznavids"
     },
     {
+      "id": "i-by-turov",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "图罗夫公国",
+        "english": "Principality of Turov",
+        "spanish": "Principado de Túrov"
+      },
+      "note": {
+        "chinese": "波洛茨克以南的较小罗斯公国，以图罗夫和平斯克为中心；14世纪初和平并入立陶宛大公国。年代为约数。",
+        "english": "A lesser Rus' principality south of Polotsk, around Turov and Pinsk; it joins the Grand Duchy peacefully in the early 14th century. Dates approximate.",
+        "spanish": "Un principado menor de la Rus al sur de Pólotsk, en torno a Túrov y Pinsk; se une pacíficamente al Gran Ducado a comienzos del siglo XIV. Fechas aproximadas."
+      },
+      "startYear": 980,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1320,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Principality_of_Turov"
+    },
+    {
       "id": "i-is-norse-greenland",
       "groupId": "g-iceland",
       "label": {
@@ -8734,7 +8934,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
     },
     {
@@ -9390,6 +9590,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Angkor_Wat"
     },
     {
+      "id": "i-mn-khamag",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "蒙兀国",
+        "english": "Khamag Mongol",
+        "spanish": "Khamag Mongol"
+      },
+      "note": {
+        "chinese": "位于斡难河、克鲁伦河和土拉河流域的部落联盟，蒙古帝国的前身。年代为约数。",
+        "english": "A tribal confederation on the Onon, Kherlen and Tuul rivers, and forerunner of the Mongol Empire. Dates approximate.",
+        "spanish": "Una confederación tribal en los ríos Onón, Kerulen y Tuul, precursora del Imperio mongol. Fechas aproximadas."
+      },
+      "startYear": 1120,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1206,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 7,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khamag_Mongol"
+    },
+    {
       "id": "i-ma-almohad",
       "groupId": "g-morocco",
       "label": {
@@ -9508,6 +9733,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Banate_of_Bosnia"
+    },
+    {
+      "id": "i-by-euphrosyne",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "圣叶夫罗西尼娅十字架",
+        "english": "Cross of Saint Euphrosyne",
+        "spanish": "Cruz de Santa Eufrosina"
+      },
+      "note": {
+        "chinese": "拉扎尔·博赫沙为白俄罗斯最著名的圣徒波洛茨克的叶夫罗西尼娅制作这件镶宝十字架，被视为国宝。",
+        "english": "Lazar Bohsha makes the jewelled cross for Euphrosyne of Polotsk, Belarus's best-known saint; it is a national treasure.",
+        "spanish": "Lazar Bohsha elabora la cruz enjoyada para Eufrosina de Pólotsk, la santa más conocida de Bielorrusia; es un tesoro nacional."
+      },
+      "startYear": 1161,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cross_of_Saint_Euphrosyne"
     },
     {
       "id": "i-rs-nemanjic",
@@ -9868,7 +10118,7 @@
       "kind": "politics",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Genghis_Khan"
     },
     {
@@ -9880,9 +10130,9 @@
         "spanish": "Imperio mongol"
       },
       "note": {
-        "chinese": "史上疆域最大的连续陆地帝国，从朝鲜延伸到匈牙利。",
-        "english": "Largest contiguous land empire in history, stretching from Korea to Hungary.",
-        "spanish": "El mayor imperio terrestre contiguo de la historia, de Corea a Hungría."
+        "chinese": "史上疆域最大的连续帝国，从日本海延伸到东欧。",
+        "english": "Largest contiguous empire in history, stretching from the Sea of Japan to Eastern Europe.",
+        "spanish": "El mayor imperio contiguo de la historia, desde el mar de Japón hasta Europa del Este."
       },
       "startYear": 1206,
       "startMonth": null,
@@ -9893,7 +10143,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 9,
       "sourceUrl": "https://en.wikipedia.org/wiki/Mongol_Empire"
     },
     {
@@ -10044,6 +10294,31 @@
       "lane": null,
       "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Mali_Empire"
+    },
+    {
+      "id": "i-mn-karakorum",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "哈拉和林成为帝国首都",
+        "english": "Karakorum, imperial capital",
+        "spanish": "Karakórum, capital imperial"
+      },
+      "note": {
+        "chinese": "始建于1220年，是蒙古帝国首都，直至忽必烈迁都大都（北京）。",
+        "english": "Founded in 1220, it is the Mongol Empire's capital until Kublai moves the seat to Dadu (Beijing).",
+        "spanish": "Fundada en 1220, es la capital del Imperio mongol hasta que Kublai traslada la sede a Dadu (Pekín)."
+      },
+      "startYear": 1235,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1260,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 10,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karakorum"
     },
     {
       "id": "i-lt-grand-duchy",
@@ -10332,6 +10607,31 @@
       "lane": null,
       "sortOrder": 13,
       "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)"
+    },
+    {
+      "id": "i-mn-toluid-war",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "忽必烈与阿里不哥汗位之争",
+        "english": "Toluid Civil War",
+        "spanish": "Guerra civil toluida"
+      },
+      "note": {
+        "chinese": "忽必烈与阿里不哥争夺汗位；战争使帝国分裂为各自为政的汗国。",
+        "english": "Kublai and Ariq Böke fight for the throne; the war splits the empire into autonomous khanates.",
+        "spanish": "Kublai y Ariq Böke luchan por el trono; la guerra divide el imperio en kanatos autónomos."
+      },
+      "startYear": 1260,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1264,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 11,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Toluid_Civil_War"
     },
     {
       "id": "i-is-foreign-rule",
@@ -10638,13 +10938,13 @@
       "startYear": 1307,
       "startMonth": null,
       "startDay": null,
-      "endYear": 1795,
+      "endYear": 1569,
       "endMonth": null,
       "endDay": null,
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 1,
+      "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania"
     },
     {
@@ -11056,7 +11356,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Lan_Xang"
     },
     {
@@ -11176,7 +11476,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 12,
       "sourceUrl": "https://en.wikipedia.org/wiki/Northern_Yuan"
     },
     {
@@ -12296,6 +12596,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-mn-dayan-khan",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "达延汗统一蒙古",
+        "english": "Dayan Khan reunites the Mongols",
+        "spanish": "Dayan Kan reunifica a los mongoles"
+      },
+      "note": {
+        "chinese": "达延汗与满都海哈屯一同统一纷争的蒙古各部，恢复成吉思汗家族统治，并将六万户分封诸子。",
+        "english": "With Queen Mandukhai, Dayan Khan reunites the warring Mongols under Chinggisid rule and divides the six tumens among his sons.",
+        "spanish": "Con la reina Mandujái, Dayan Kan reunifica a los mongoles bajo los Chinguísidas y reparte los seis tumen entre sus hijos."
+      },
+      "startYear": 1480,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1517,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 13,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dayan_Khan"
+    },
+    {
       "id": "i-nl-habsburg",
       "groupId": "g-netherlands",
       "label": {
@@ -13086,31 +13411,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-by-skaryna",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "斯卡雷纳印刷《圣经》",
-        "english": "Skaryna's printed Bible",
-        "spanish": "Biblia impresa de Skaryna"
-      },
-      "note": {
-        "chinese": "弗朗齐斯克·斯卡雷纳印刷出第一部东斯拉夫语书籍。",
-        "english": "Francysk Skaryna prints the first book in an East Slavic language.",
-        "spanish": "Francysk Skaryna imprime el primer libro en una lengua eslava oriental."
-      },
-      "startYear": 1517,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "literature",
-      "color": null,
-      "lane": null,
-      "sortOrder": 2,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Francysk_Skaryna"
-    },
-    {
       "id": "i-de-reformation",
       "groupId": "g-germany",
       "label": {
@@ -13133,6 +13433,31 @@
       "lane": null,
       "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+    },
+    {
+      "id": "i-by-skaryna",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "斯卡雷纳印刷《圣经》",
+        "english": "Skaryna's printed Bible",
+        "spanish": "Biblia impresa de Skaryna"
+      },
+      "note": {
+        "chinese": "弗朗西斯克·斯卡雷纳在布拉格印行《诗篇》及《圣经》，这是斯拉夫世界第二部印刷版《圣经》。",
+        "english": "Francysk Skaryna prints his Psalter and then a Bible in Prague, the second printed Bible in the Slavic world.",
+        "spanish": "Francysk Skaryna imprime en Praga su Salterio y luego una Biblia, la segunda Biblia impresa del mundo eslavo."
+      },
+      "startYear": 1517,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "literature",
+      "color": null,
+      "lane": null,
+      "sortOrder": 5,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Francysk_Skaryna"
     },
     {
       "id": "i-il-ottoman",
@@ -13493,6 +13818,31 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Vienna"
+    },
+    {
+      "id": "i-by-statutes",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "《立陶宛法典》",
+        "english": "Statutes of Lithuania",
+        "spanish": "Estatutos de Lituania"
+      },
+      "note": {
+        "chinese": "立陶宛大公国1529、1566和1588年的法典，以鲁塞尼亚语写成；最后一部沿用至1840年。",
+        "english": "The Grand Duchy's law codes of 1529, 1566 and 1588, written in Ruthenian; the last stays in force until 1840.",
+        "spanish": "Los códigos legales del Gran Ducado de 1529, 1566 y 1588, escritos en rutenio; el último rige hasta 1840."
+      },
+      "startYear": 1529,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1588,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 6,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Statutes_of_Lithuania"
     },
     {
       "id": "i-br-colonial",
@@ -14022,7 +14372,7 @@
       "kind": "politics",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 5,
       "sourceUrl": "https://en.wikipedia.org/wiki/Setthathirath"
     },
     {
@@ -14246,6 +14596,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
     },
     {
+      "id": "i-by-commonwealth",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "波兰立陶宛联邦时期",
+        "english": "Within the Polish–Lithuanian Commonwealth",
+        "spanish": "Dentro de la Mancomunidad de Polonia-Lituania"
+      },
+      "note": {
+        "chinese": "《卢布林联合》将立陶宛大公国与波兰结合；至17世纪末，波兰语取代鲁塞尼亚语成为官方语言。",
+        "english": "The Union of Lublin binds the Grand Duchy to Poland; by the late 17th century Polish replaces Ruthenian in government.",
+        "spanish": "La Unión de Lublin une el Gran Ducado a Polonia; a finales del siglo XVII el polaco sustituye al rutenio en la administración."
+      },
+      "startYear": 1569,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1795,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 7,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+    },
+    {
       "id": "i-ro-transylvania",
       "groupId": "g-romania",
       "label": {
@@ -14296,6 +14671,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Ottoman_Cyprus"
     },
     {
+      "id": "i-la-burmese",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "缅甸宗主统治",
+        "english": "Burmese overlordship",
+        "spanish": "Dominio birmano"
+      },
+      "note": {
+        "chinese": "莽应龙攻占万象，通过附庸国王统治澜沧；内战持续至诺乔哥曼从缅甸归国。",
+        "english": "Bayinnaung takes Vientiane and rules Lan Xang through vassal kings; civil war follows until Nokeo Koumane returns from Burma.",
+        "spanish": "Bayinnaung toma Vientián y gobierna Lan Xang mediante reyes vasallos; sigue una guerra civil hasta que Nokeo Koumane vuelve de Birmania."
+      },
+      "startYear": 1574,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1591,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 6,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lan_Xang"
+    },
+    {
       "id": "i-194",
       "groupId": "g-buddhism",
       "label": {
@@ -14340,6 +14740,31 @@
       "lane": null,
       "sortOrder": 7,
       "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir"
+    },
+    {
+      "id": "i-mn-dalai-lama",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "俺答汗授予达赖喇嘛称号",
+        "english": "Altan Khan names the Dalai Lama",
+        "spanish": "Altan Kan nombra al dalái lama"
+      },
+      "note": {
+        "chinese": "俺答汗授予索南嘉措“达赖”称号；五十年内几乎所有蒙古人皈依佛教。",
+        "english": "Altan Khan gives Sonam Gyatso the title Dalai; within 50 years nearly all Mongols are Buddhist.",
+        "spanish": "Altan Kan concede a Sonam Gyatso el título de dalái; en 50 años casi todos los mongoles son budistas."
+      },
+      "startYear": 1578,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 14,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Altan_Khan"
     },
     {
       "id": "i-pt-iberian-union",
@@ -14457,6 +14882,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Luba_Empire"
     },
     {
+      "id": "i-mn-erdene-zuu",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "额尔德尼召",
+        "english": "Erdene Zuu Monastery",
+        "spanish": "Monasterio de Erdene Zuu"
+      },
+      "note": {
+        "chinese": "阿巴岱汗在哈拉和林遗址旁兴建，可能是蒙古现存最古老的佛寺。",
+        "english": "Abtai Khan builds it beside the ruins of Karakorum; it is probably the oldest surviving monastery in Mongolia.",
+        "spanish": "Abtai Kan lo construye junto a las ruinas de Karakórum; probablemente es el monasterio más antiguo que se conserva en Mongolia."
+      },
+      "startYear": 1585,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 15,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery"
+    },
+    {
       "id": "i-id-mataram",
       "groupId": "g-indonesia",
       "label": {
@@ -14528,6 +14978,31 @@
       "lane": null,
       "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Imjin_War"
+    },
+    {
+      "id": "i-by-brest-union",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "布列斯特联合",
+        "english": "Union of Brest",
+        "spanish": "Unión de Brest"
+      },
+      "note": {
+        "chinese": "联邦境内的东正教主教承认教宗权威并保留原有礼仪，由此形成东仪天主教会。",
+        "english": "Orthodox bishops of the Commonwealth accept the Pope while keeping their rite, founding the Uniate Church.",
+        "spanish": "Los obispos ortodoxos de la Mancomunidad aceptan al papa manteniendo su rito, y nace la Iglesia uniata."
+      },
+      "startYear": 1596,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 8,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Union_of_Brest"
     },
     {
       "id": "i-ro-michael-the-brave",
@@ -14616,6 +15091,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
+    },
+    {
+      "id": "i-mn-ligdan",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "林丹汗",
+        "english": "Ligdan Khan",
+        "spanish": "Ligdan Kan"
+      },
+      "note": {
+        "chinese": "北元最后一位大汗，力图重新统一蒙古，但败于崛起的后金。",
+        "english": "The last khagan of the Northern Yuan tries to reunify the Mongols but loses to the rising Later Jin.",
+        "spanish": "El último kan del Yuan del Norte intenta reunificar a los mongoles, pero cae ante el ascenso de los Jin Posteriores."
+      },
+      "startYear": 1604,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1634,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 16,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ligdan_Khan"
     },
     {
       "id": "i-au-european-discovery",
@@ -15019,6 +15519,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Gondarine_period"
     },
     {
+      "id": "i-mn-dzungar",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "准噶尔汗国",
+        "english": "Dzungar Khanate",
+        "spanish": "Kanato de Zungaria"
+      },
+      "note": {
+        "chinese": "最后一个卫拉特游牧帝国，以准噶尔盆地为中心；1755至1758年被清朝灭亡，其民众惨遭屠戮。",
+        "english": "The last Oirat nomadic empire, centred on Dzungaria; the Qing destroy it and its people in 1755–1758.",
+        "spanish": "El último imperio nómada oirate, con centro en Zungaria; los Qing lo destruyen junto con su pueblo en 1755–1758."
+      },
+      "startYear": 1634,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1758,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 17,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dzungar_Khanate"
+    },
+    {
       "id": "i-020",
       "groupId": "g-europe",
       "label": {
@@ -15082,7 +15607,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 7,
       "sourceUrl": "https://en.wikipedia.org/wiki/Sourigna_Vongsa"
     },
     {
@@ -15107,7 +15632,7 @@
       "kind": "religion",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 18,
       "sourceUrl": "https://en.wikipedia.org/wiki/Zanabazar"
     },
     {
@@ -15365,6 +15890,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Dutch_Cape_Colony"
     },
     {
+      "id": "i-by-1654-war",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "俄波战争",
+        "english": "Russo-Polish War",
+        "spanish": "Guerra ruso-polaca"
+      },
+      "note": {
+        "chinese": "莫斯科大公国军队攻占明斯克和维尔纽斯；1667年《安德鲁索沃停战协定》结束战争。",
+        "english": "Muscovite armies take Minsk and Vilnius; the Treaty of Andrusovo ends the war in 1667.",
+        "spanish": "Los ejércitos moscovitas toman Minsk y Vilna; la Tregua de Andrúsovo pone fin a la guerra en 1667."
+      },
+      "startYear": 1654,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1667,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 9,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667)"
+    },
+    {
       "id": "i-at-battle-1683",
       "groupId": "g-austria",
       "label": {
@@ -15409,6 +15959,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
+    },
+    {
+      "id": "i-mn-galdan",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "噶尔丹进攻喀尔喀",
+        "english": "Galdan's invasion of Khalkha",
+        "spanish": "Invasión de Jalja por Galdán"
+      },
+      "note": {
+        "chinese": "准噶尔首领噶尔丹攻占喀尔喀，喀尔喀诸王逃往清朝；清军于1696年击败噶尔丹。",
+        "english": "The Dzungar ruler overruns Khalkha; its princes flee to the Qing, who defeat him in 1696.",
+        "spanish": "El soberano zúngaro arrasa Jalja; sus príncipes huyen a los Qing, que lo derrotan en 1696."
+      },
+      "startYear": 1688,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1697,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 19,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galdan_Boshugtu_Khan"
     },
     {
       "id": "i-ie-boyne",
@@ -15457,7 +16032,7 @@
       "kind": "colonial",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 20,
       "sourceUrl": "https://en.wikipedia.org/wiki/Mongolia_under_Qing_rule"
     },
     {
@@ -15650,7 +16225,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
+      "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Luang_Phrabang"
     },
     {
@@ -16036,6 +16611,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-mn-chingunjav",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "青衮杂卜起义",
+        "english": "Chingünjav's uprising",
+        "spanish": "Levantamiento de Chingünjav"
+      },
+      "note": {
+        "chinese": "喀尔喀王公领导的反清起义失败；他如今被誉为争取独立的斗士。",
+        "english": "A Khalkha prince leads a failed revolt against the Qing; he is now hailed as a fighter for independence.",
+        "spanish": "Un príncipe jalja encabeza una revuelta fallida contra los Qing; hoy se le honra como luchador por la independencia."
+      },
+      "startYear": 1756,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1757,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 21,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ching%C3%BCnjav"
+    },
+    {
       "id": "i-019",
       "groupId": "g-uk",
       "label": {
@@ -16296,6 +16896,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Partitions_of_Poland"
     },
     {
+      "id": "i-by-russian",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "俄罗斯帝国统治",
+        "english": "Russian Empire rule",
+        "spanish": "Dominio del Imperio ruso"
+      },
+      "note": {
+        "chinese": "波兰被瓜分（1772–1795年）使白俄罗斯归入俄国。",
+        "english": "The partitions of Poland (1772–1795) bring Belarus under Russia.",
+        "spanish": "Los repartos de Polonia (1772–1795) ponen Bielorrusia bajo Rusia."
+      },
+      "startYear": 1772,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1917,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 10,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus"
+    },
+    {
       "id": "i-031",
       "groupId": "g-france",
       "label": {
@@ -16389,6 +17014,31 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Captaincy_General_of_Venezuela"
+    },
+    {
+      "id": "i-la-sack-vientiane",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "暹罗洗劫万象",
+        "english": "Siam sacks Vientiane",
+        "spanish": "Siam saquea Vientián"
+      },
+      "note": {
+        "chinese": "暹罗将万象王子和勃拉邦佛像掳往曼谷；老挝诸王国沦为暹罗附庸。",
+        "english": "Siam takes Vientiane's princes and the Phra Bang to Bangkok; the Lao kingdoms become Siamese vassals.",
+        "spanish": "Siam se lleva a Bangkok a los príncipes de Vientián y el Phra Bang; los reinos lao pasan a ser vasallos siameses."
+      },
+      "startYear": 1779,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 9,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Laos#Siam_and_suzerainty_(1779%E2%80%931893)"
     },
     {
       "id": "i-025",
@@ -16648,6 +17298,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Constitution_of_3_May_1791"
     },
     {
+      "id": "i-by-pale",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "犹太人定居区",
+        "english": "Pale of Settlement",
+        "spanish": "Zona de Asentamiento"
+      },
+      "note": {
+        "chinese": "俄国将犹太人限居于西部地区，包括今白俄罗斯全境；1897年犹太人占当地各省人口的12%至17%。",
+        "english": "Russia confines its Jews to its western lands, all of Belarus included; in 1897 they make up 12–17% of the population of its provinces.",
+        "spanish": "Rusia confina a sus judíos en sus tierras occidentales, incluida toda Bielorrusia; en 1897 son el 12–17 % de la población de sus provincias."
+      },
+      "startYear": 1791,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1917,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 11,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_of_Settlement"
+    },
+    {
       "id": "i-ua-russian-empire",
       "groupId": "g-ukraine",
       "label": {
@@ -16670,31 +17345,6 @@
       "lane": null,
       "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Ukraine"
-    },
-    {
-      "id": "i-by-russian",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "俄罗斯帝国统治",
-        "english": "Russian Empire rule",
-        "spanish": "Dominio del Imperio ruso"
-      },
-      "note": {
-        "chinese": "瓜分波兰使白俄罗斯归入俄国，1830年和1863年起义均告失败。",
-        "english": "The partitions of Poland bring Belarus under Russia; uprisings in 1830 and 1863 fail.",
-        "spanish": "Las particiones de Polonia ponen Bielorrusia bajo Rusia; fracasan los levantamientos de 1830 y 1863."
-      },
-      "startYear": 1795,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1917,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "colonial",
-      "color": null,
-      "lane": null,
-      "sortOrder": 3,
-      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus"
     },
     {
       "id": "i-lt-russian",
@@ -17463,6 +18113,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/War_of_1812"
     },
     {
+      "id": "i-by-berezina",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "别列津纳河战役",
+        "english": "Battle of the Berezina",
+        "spanish": "Batalla del Berézina"
+      },
+      "note": {
+        "chinese": "拿破仑撤退中的军队在鲍里索夫附近强渡别列津纳河，以惨重代价保住残部。",
+        "english": "Napoleon's retreating army forces a crossing near Barysaw, saving its remnant at heavy cost.",
+        "spanish": "El ejército de Napoleón en retirada fuerza el paso cerca de Barýsau y salva sus restos a un alto coste."
+      },
+      "startYear": 1812,
+      "startMonth": 11,
+      "startDay": 26,
+      "endYear": 1812,
+      "endMonth": 11,
+      "endDay": 29,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 12,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Berezina"
+    },
+    {
       "id": "i-no-constitution",
       "groupId": "g-norway",
       "label": {
@@ -18024,31 +18699,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway"
     },
     {
-      "id": "i-la-anouvong",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "昭阿努起义",
-        "english": "Anouvong's rebellion",
-        "spanish": "Rebelión de Anouvong"
-      },
-      "note": {
-        "chinese": "万象国王起兵反抗暹罗，万象城遭夷平。",
-        "english": "Vientiane's king revolts against Siam; the city is razed in reprisal.",
-        "spanish": "El rey de Vientián se rebela contra Siam; la ciudad es arrasada en represalia."
-      },
-      "startYear": 1826,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1828,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_rebellion_(1826%E2%80%931828)"
-    },
-    {
       "id": "i-my-straits-settlements",
       "groupId": "g-malaysia",
       "label": {
@@ -18072,6 +18722,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Straits_Settlements"
+    },
+    {
+      "id": "i-la-anouvong",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "昭阿努起义",
+        "english": "Anouvong's rebellion",
+        "spanish": "Rebelión de Anouvong"
+      },
+      "note": {
+        "chinese": "万象国王起兵反抗暹罗，万象城遭夷平。",
+        "english": "Vientiane's king revolts against Siam; the city is razed in reprisal.",
+        "spanish": "El rey de Vientián se rebela contra Siam; la ciudad es arrasada en represalia."
+      },
+      "startYear": 1826,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1828,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 10,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_rebellion_(1826%E2%80%931828)"
     },
     {
       "id": "i-hin-brahmo-samaj",
@@ -18458,6 +19133,31 @@
       "lane": null,
       "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_London_(1839)"
+    },
+    {
+      "id": "i-by-polotsk-synod",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "波洛茨克宗教会议",
+        "english": "Synod of Polotsk",
+        "spanish": "Sínodo de Pólotsk"
+      },
+      "note": {
+        "chinese": "东仪天主教会并入俄罗斯东正教会，涉及1607个堂区、约120万信徒。",
+        "english": "The Uniate Church is merged into Russian Orthodoxy: 1,607 parishes and about 1.2 million believers.",
+        "spanish": "La Iglesia uniata se integra en la ortodoxia rusa: 1607 parroquias y unos 1,2 millones de fieles."
+      },
+      "startYear": 1839,
+      "startMonth": 2,
+      "startDay": 24,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 13,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Synod_of_Polotsk"
     },
     {
       "id": "i-nz-waitangi",
@@ -19227,6 +19927,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/French_protectorate_of_Cambodia"
     },
     {
+      "id": "i-by-1863",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "一月起义",
+        "english": "January Uprising",
+        "spanish": "Insurrección de Enero"
+      },
+      "note": {
+        "chinese": "前波兰立陶宛联邦地区反抗俄国统治的起义；在白俄罗斯由卡斯图斯·卡利诺夫斯基领导，他还印行了第一份现代白俄罗斯语报纸《农民真理报》。",
+        "english": "A revolt against Russian rule across former Commonwealth lands; in Belarus Kastus Kalinoŭski leads it and prints Mužyckaja praŭda, the first newspaper in modern Belarusian.",
+        "spanish": "Una revuelta contra el dominio ruso en las antiguas tierras de la Mancomunidad; en Bielorrusia la dirige Kastús Kalinouski, que edita Muzhýtskaya práuda, el primer periódico en bielorruso moderno."
+      },
+      "startYear": 1863,
+      "startMonth": 1,
+      "startDay": 22,
+      "endYear": 1864,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 14,
+      "sourceUrl": "https://en.wikipedia.org/wiki/January_Uprising"
+    },
+    {
       "id": "i-lt-press-ban",
       "groupId": "g-lithuania",
       "label": {
@@ -19300,6 +20025,31 @@
       "lane": null,
       "sortOrder": 11,
       "sourceUrl": "https://en.wikipedia.org/wiki/Paraguayan_War"
+    },
+    {
+      "id": "i-la-haw-wars",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "贺人战争",
+        "english": "Haw Wars",
+        "spanish": "Guerras haw"
+      },
+      "note": {
+        "chinese": "中国流寇武装侵扰老挝各地、焚毁佛寺，直至被暹罗军队击败。",
+        "english": "Chinese bandit armies raid Lao lands and burn temples until Siamese forces defeat them.",
+        "spanish": "Bandas armadas chinas asolan tierras lao y queman templos hasta que las fuerzas siamesas las derrotan."
+      },
+      "startYear": 1865,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1890,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 11,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Haw_wars"
     },
     {
       "id": "i-lu-neutrality",
@@ -20799,31 +21549,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-la-french-protectorate",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "法国保护国",
-        "english": "French protectorate",
-        "spanish": "Protectorado francés"
-      },
-      "note": {
-        "chinese": "法暹危机后，暹罗割让湄公河以东土地，老挝并入法属印度支那。",
-        "english": "After the Franco-Siamese crisis, Siam cedes the lands east of the Mekong; Laos joins French Indochina.",
-        "spanish": "Tras la crisis franco-siamesa, Siam cede las tierras al este del Mekong; Laos se integra en la Indochina francesa."
-      },
-      "startYear": 1893,
-      "startMonth": 10,
-      "startDay": 3,
-      "endYear": 1953,
-      "endMonth": 10,
-      "endDay": 22,
-      "kind": "colonial",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/French_protectorate_of_Laos"
-    },
-    {
       "id": "i-nz-suffrage",
       "groupId": "g-new-zealand",
       "label": {
@@ -20846,6 +21571,56 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand"
+    },
+    {
+      "id": "i-la-1893-crisis",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "1893年法暹危机",
+        "english": "Franco-Siamese crisis",
+        "spanish": "Crisis franco-siamesa"
+      },
+      "note": {
+        "chinese": "法国炮舰封锁曼谷，暹罗将今老挝大部分地区割让给法国。",
+        "english": "French gunboats blockade Bangkok, and Siam cedes most of present-day Laos to France.",
+        "spanish": "Cañoneros franceses bloquean Bangkok y Siam cede a Francia la mayor parte del actual Laos."
+      },
+      "startYear": 1893,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 12,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franco-Siamese_crisis_of_1893"
+    },
+    {
+      "id": "i-la-french-protectorate",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "法国保护国",
+        "english": "French protectorate",
+        "spanish": "Protectorado francés"
+      },
+      "note": {
+        "chinese": "法暹危机后，暹罗割让湄公河以东土地，老挝并入法属印度支那。",
+        "english": "After the Franco-Siamese crisis, Siam cedes the lands east of the Mekong; Laos joins French Indochina.",
+        "spanish": "Tras la crisis franco-siamesa, Siam cede las tierras al este del Mekong; Laos se integra en la Indochina francesa."
+      },
+      "startYear": 1893,
+      "startMonth": 10,
+      "startDay": 3,
+      "endYear": 1953,
+      "endMonth": 10,
+      "endDay": 22,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 13,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_protectorate_of_Laos"
     },
     {
       "id": "i-hin-vivekananda",
@@ -21426,6 +22201,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution"
     },
     {
+      "id": "i-by-nasha-niva",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "《我们的田野》",
+        "english": "Nasha Niva",
+        "spanish": "Nasha Niva"
+      },
+      "note": {
+        "chinese": "民族复兴运动的核心周报；扬卡·库帕拉任主编，雅库布·科拉斯和马克西姆·博格丹诺维奇为其撰稿。",
+        "english": "The weekly at the heart of the national revival; Janka Kupała edits it, and Yakub Kolas and Maksim Bahdanovič write for it.",
+        "spanish": "El semanario en el centro del renacimiento nacional; lo dirige Yanka Kupala, y escriben en él Yakub Kolas y Maksim Bahdanóvich."
+      },
+      "startYear": 1906,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1915,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "literature",
+      "color": null,
+      "lane": null,
+      "sortOrder": 15,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nasha_Niva"
+    },
+    {
       "id": "i-nz-dominion",
       "groupId": "g-new-zealand",
       "label": {
@@ -21736,31 +22536,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-mn-bogd-khanate",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "博克多汗国",
-        "english": "Bogd Khanate",
-        "spanish": "Kanato de Bogd"
-      },
-      "note": {
-        "chinese": "以八世哲布尊丹巴呼图克图为首，宣布脱离清朝独立。",
-        "english": "Mongolia declares independence from the Qing under the 8th Jebtsundamba Khutughtu.",
-        "spanish": "Mongolia se declara independiente de los Qing bajo el 8.º Jebtsundamba Khutughtu."
-      },
-      "startYear": 1911,
-      "startMonth": 12,
-      "startDay": 29,
-      "endYear": 1924,
-      "endMonth": 11,
-      "endDay": 26,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Bogd_Khanate_of_Mongolia"
-    },
-    {
       "id": "i-lu-steel",
       "groupId": "g-luxembourg",
       "label": {
@@ -21809,6 +22584,31 @@
       "lane": null,
       "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Roald_Amundsen"
+    },
+    {
+      "id": "i-mn-bogd-khanate",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "博克多汗国",
+        "english": "Bogd Khanate",
+        "spanish": "Kanato de Bogd"
+      },
+      "note": {
+        "chinese": "以八世哲布尊丹巴呼图克图为首，宣布脱离清朝独立。",
+        "english": "Mongolia declares independence from the Qing under the 8th Jebtsundamba Khutughtu.",
+        "spanish": "Mongolia se declara independiente de los Qing bajo el 8.º Jebtsundamba Khutughtu."
+      },
+      "startYear": 1911,
+      "startMonth": 12,
+      "startDay": 29,
+      "endYear": 1924,
+      "endMonth": 11,
+      "endDay": 26,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 22,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bogd_Khanate_of_Mongolia"
     },
     {
       "id": "i-ni-us-occupation",
@@ -22293,6 +23093,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Battles_of_the_Isonzo"
     },
     {
+      "id": "i-mn-kyakhta-1915",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "《恰克图条约》",
+        "english": "Treaty of Kyakhta",
+        "spanish": "Tratado de Kiajta"
+      },
+      "note": {
+        "chinese": "俄、中、蒙三方议定外蒙古在中国宗主权下自治。",
+        "english": "Russia, China and Mongolia agree that Outer Mongolia is autonomous under Chinese suzerainty.",
+        "spanish": "Rusia, China y Mongolia acuerdan que Mongolia Exterior sea autónoma bajo soberanía china."
+      },
+      "startYear": 1915,
+      "startMonth": 5,
+      "startDay": 25,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 23,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Kyakhta_(1915)"
+    },
+    {
       "id": "i-it-wwi",
       "groupId": "g-italy",
       "label": {
@@ -22451,31 +23276,6 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ukrainian_People%27s_Republic"
-    },
-    {
-      "id": "i-by-bnr",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "白俄罗斯人民共和国",
-        "english": "Belarusian People's Republic",
-        "spanish": "República Popular Bielorrusa"
-      },
-      "note": {
-        "chinese": "在德国占领下宣布成立的短命独立共和国。",
-        "english": "A short-lived independent republic declared under German occupation.",
-        "spanish": "Una efímera república independiente proclamada bajo ocupación alemana."
-      },
-      "startYear": 1918,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 4,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Belarusian_Democratic_Republic"
     },
     {
       "id": "i-md-union-romania",
@@ -22778,29 +23578,54 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/First_Austrian_Republic"
     },
     {
-      "id": "i-by-bssr",
+      "id": "i-by-brest-litovsk",
       "groupId": "g-belarus",
       "label": {
-        "chinese": "白俄罗斯苏维埃社会主义共和国",
-        "english": "Byelorussian SSR",
-        "spanish": "RSS de Bielorrusia"
+        "chinese": "《布列斯特-立托夫斯克和约》",
+        "english": "Treaty of Brest-Litovsk",
+        "spanish": "Tratado de Brest-Litovsk"
       },
       "note": {
-        "chinese": "苏联时期的白俄罗斯，苏联和联合国的创始成员。",
-        "english": "Soviet Belarus, a founding member of the USSR and the UN.",
-        "spanish": "La Bielorrusia soviética, miembro fundador de la URSS y de la ONU."
+        "chinese": "苏俄在布列斯特与德国媾和，放弃西部领土；三周后白俄罗斯人民共和国宣布独立。",
+        "english": "Soviet Russia makes peace with Germany at Brest and gives up its western lands; three weeks later the Belarusian People's Republic declares independence.",
+        "spanish": "La Rusia soviética firma la paz con Alemania en Brest y renuncia a sus tierras occidentales; tres semanas después la República Popular Bielorrusa proclama su independencia."
       },
-      "startYear": 1919,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1991,
+      "startYear": 1918,
+      "startMonth": 3,
+      "startDay": 3,
+      "endYear": null,
       "endMonth": null,
       "endDay": null,
       "kind": "politics",
       "color": null,
       "lane": null,
-      "sortOrder": 5,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
+      "sortOrder": 16,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk"
+    },
+    {
+      "id": "i-by-bnr",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "白俄罗斯人民共和国",
+        "english": "Belarusian People's Republic",
+        "spanish": "República Popular Bielorrusa"
+      },
+      "note": {
+        "chinese": "在德国占领下宣布成立；其政府于1918年12月撤离明斯克，拉达至今仍为流亡政府。",
+        "english": "Declared under German occupation; its government leaves Minsk in December 1918, and its Rada lives on in exile.",
+        "spanish": "Proclamada bajo ocupación alemana; su gobierno abandona Minsk en diciembre de 1918 y su Rada sigue en el exilio."
+      },
+      "startYear": 1918,
+      "startMonth": 3,
+      "startDay": 25,
+      "endYear": 1919,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 17,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belarusian_Democratic_Republic"
     },
     {
       "id": "i-ie-war-of-independence",
@@ -22949,6 +23774,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Turkish_War_of_Independence"
     },
     {
+      "id": "i-by-bssr",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "白俄罗斯苏维埃社会主义共和国",
+        "english": "Byelorussian SSR",
+        "spanish": "RSS de Bielorrusia"
+      },
+      "note": {
+        "chinese": "苏联时期的白俄罗斯，苏联和联合国的创始成员。",
+        "english": "Soviet Belarus, a founding member of the USSR and the UN.",
+        "spanish": "La Bielorrusia soviética, miembro fundador de la URSS y de la ONU."
+      },
+      "startYear": 1919,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1991,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 18,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic"
+    },
+    {
       "id": "i-gr-asia-minor",
       "groupId": "g-greece",
       "label": {
@@ -22971,6 +23821,56 @@
       "lane": null,
       "sortOrder": 18,
       "sourceUrl": "https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%931922)"
+    },
+    {
+      "id": "i-by-polish-soviet-war",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "波苏战争",
+        "english": "Polish–Soviet War",
+        "spanish": "Guerra polaco-soviética"
+      },
+      "note": {
+        "chinese": "波兰与苏俄在白俄罗斯境内交战；随后的《里加和约》将其一分为二。",
+        "english": "Poland and Soviet Russia fight across Belarus; the Peace of Riga then divides it.",
+        "spanish": "Polonia y la Rusia soviética combaten en Bielorrusia; la Paz de Riga la divide después."
+      },
+      "startYear": 1919,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1920,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 19,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War"
+    },
+    {
+      "id": "i-mn-chinese-occupation",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "北洋政府占领外蒙古",
+        "english": "Chinese occupation",
+        "spanish": "Ocupación china"
+      },
+      "note": {
+        "chinese": "北洋政府撤销外蒙古自治并占领库伦，直至被恩琴的部队击溃。",
+        "english": "The Beiyang government revokes Mongolian autonomy and occupies Urga until Ungern's forces rout its troops.",
+        "spanish": "El gobierno de Beiyang revoca la autonomía mongola y ocupa Urga hasta que las fuerzas de Ungern derrotan a sus tropas."
+      },
+      "startYear": 1919,
+      "startMonth": 10,
+      "startDay": null,
+      "endYear": 1921,
+      "endMonth": 3,
+      "endDay": 18,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 24,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Occupation_of_Mongolia"
     },
     {
       "id": "i-068",
@@ -23183,56 +24083,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Mandatory_Palestine"
     },
     {
-      "id": "i-mn-1921-revolution",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "1921年蒙古革命",
-        "english": "Mongolian Revolution of 1921",
-        "spanish": "Revolución mongola de 1921"
-      },
-      "note": {
-        "chinese": "苏赫巴托尔的游击队与红军驱逐中国军队和恩琴的白俄军。",
-        "english": "Sükhbaatar's partisans and the Red Army expel Chinese troops and Ungern's White Russians.",
-        "spanish": "Los partisanos de Sükhbaatar y el Ejército Rojo expulsan a las tropas chinas y a los rusos blancos de Ungern."
-      },
-      "startYear": 1921,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1921"
-    },
-    {
-      "id": "i-by-riga",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "《里加和约》",
-        "english": "Peace of Riga",
-        "spanish": "Paz de Riga"
-      },
-      "note": {
-        "chinese": "波苏和约将白俄罗斯一分为二，西部归波兰直至1939年。",
-        "english": "The Polish–Soviet peace splits Belarus; the west goes to Poland until 1939.",
-        "spanish": "La paz polaco-soviética divide Bielorrusia; el oeste pasa a Polonia hasta 1939."
-      },
-      "startYear": 1921,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 6,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Riga"
-    },
-    {
       "id": "i-ma-rif-war",
       "groupId": "g-morocco",
       "label": {
@@ -23256,6 +24106,56 @@
       "lane": null,
       "sortOrder": 10,
       "sourceUrl": "https://en.wikipedia.org/wiki/Rif_War"
+    },
+    {
+      "id": "i-by-riga",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "《里加和约》",
+        "english": "Peace of Riga",
+        "spanish": "Paz de Riga"
+      },
+      "note": {
+        "chinese": "波苏和约将白俄罗斯一分为二，西部归波兰直至1939年。",
+        "english": "The Polish–Soviet peace splits Belarus; the west goes to Poland until 1939.",
+        "spanish": "La paz polaco-soviética divide Bielorrusia; el oeste pasa a Polonia hasta 1939."
+      },
+      "startYear": 1921,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 20,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peace_of_Riga"
+    },
+    {
+      "id": "i-mn-1921-revolution",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "1921年蒙古革命",
+        "english": "Mongolian Revolution of 1921",
+        "spanish": "Revolución mongola de 1921"
+      },
+      "note": {
+        "chinese": "苏赫巴托尔的游击队与红军驱逐中国军队和恩琴的白俄军。",
+        "english": "Sükhbaatar's partisans and the Red Army expel Chinese troops and Ungern's White Russians.",
+        "spanish": "Los partisanos de Sükhbaatar y el Ejército Rojo expulsan a las tropas chinas y a los rusos blancos de Ungern."
+      },
+      "startYear": 1921,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 25,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1921"
     },
     {
       "id": "i-133",
@@ -23472,31 +24372,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_the_Republic_of_T%C3%BCrkiye"
     },
     {
-      "id": "i-mn-mpr",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "蒙古人民共和国",
-        "english": "Mongolian People's Republic",
-        "spanish": "República Popular de Mongolia"
-      },
-      "note": {
-        "chinese": "世界上第二个共产主义国家，苏联的紧密卫星国。",
-        "english": "The world's second communist state and a close Soviet satellite.",
-        "spanish": "Segundo estado comunista del mundo y estrecho satélite soviético."
-      },
-      "startYear": 1924,
-      "startMonth": 11,
-      "startDay": 26,
-      "endYear": 1992,
-      "endMonth": 2,
-      "endDay": 12,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_People%27s_Republic"
-    },
-    {
       "id": "i-islam-caliphate-abolished",
       "groupId": "g-islam",
       "label": {
@@ -23519,6 +24394,56 @@
       "lane": null,
       "sortOrder": 18,
       "sourceUrl": "https://en.wikipedia.org/wiki/Abolition_of_the_Caliphate"
+    },
+    {
+      "id": "i-by-belarusization",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "白俄罗斯化政策",
+        "english": "Belarusization",
+        "spanish": "Bielorrusización"
+      },
+      "note": {
+        "chinese": "苏维埃白俄罗斯在学校和政府中推广白俄罗斯语；20世纪30年代被斯大林推翻。",
+        "english": "Soviet Belarus promotes the Belarusian language in schools and government; Stalin reverses it in the 1930s.",
+        "spanish": "La Bielorrusia soviética promueve el bielorruso en escuelas y gobierno; Stalin lo revierte en los años treinta."
+      },
+      "startYear": 1924,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 21,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belarusization"
+    },
+    {
+      "id": "i-mn-mpr",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "蒙古人民共和国",
+        "english": "Mongolian People's Republic",
+        "spanish": "República Popular de Mongolia"
+      },
+      "note": {
+        "chinese": "世界上第二个共产主义国家，苏联的紧密卫星国。",
+        "english": "The world's second communist state and a close Soviet satellite.",
+        "spanish": "Segundo estado comunista del mundo y estrecho satélite soviético."
+      },
+      "startYear": 1924,
+      "startMonth": 11,
+      "startDay": 26,
+      "endYear": 1992,
+      "endMonth": 2,
+      "endDay": 12,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 26,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_People%27s_Republic"
     },
     {
       "id": "i-046",
@@ -24166,31 +25091,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
     },
     {
-      "id": "i-mn-purges",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "大清洗",
-        "english": "Stalinist repressions",
-        "spanish": "Represiones estalinistas"
-      },
-      "note": {
-        "chinese": "乔巴山发动的清洗杀害数万人，其中包括大量喇嘛。",
-        "english": "Choibalsan's purges kill tens of thousands, including many Buddhist lamas.",
-        "spanish": "Las purgas de Choibalsan matan a decenas de miles de personas, entre ellas muchos lamas budistas."
-      },
-      "startYear": 1937,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1939,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Stalinist_repressions_in_Mongolia"
-    },
-    {
       "id": "i-by-kurapaty",
       "groupId": "g-belarus",
       "label": {
@@ -24212,8 +25112,33 @@
       "kind": "other",
       "color": null,
       "lane": null,
-      "sortOrder": 7,
+      "sortOrder": 22,
       "sourceUrl": "https://en.wikipedia.org/wiki/Kurapaty"
+    },
+    {
+      "id": "i-mn-purges",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "大清洗",
+        "english": "Stalinist repressions",
+        "spanish": "Represiones estalinistas"
+      },
+      "note": {
+        "chinese": "乔巴山发动的清洗杀害数万人，其中包括大量喇嘛。",
+        "english": "Choibalsan's purges kill tens of thousands, including many Buddhist lamas.",
+        "spanish": "Las purgas de Choibalsan matan a decenas de miles de personas, entre ellas muchos lamas budistas."
+      },
+      "startYear": 1937,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1939,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 27,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stalinist_repressions_in_Mongolia"
     },
     {
       "id": "i-cz-munich",
@@ -24306,31 +25231,6 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
-    },
-    {
-      "id": "i-mn-khalkhin-gol",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "诺门罕战役",
-        "english": "Battles of Khalkhin Gol",
-        "spanish": "Batallas de Jaljin Gol"
-      },
-      "note": {
-        "chinese": "朱可夫率领的苏蒙军队在伪满边境击败日军。",
-        "english": "Soviet-Mongolian forces under Zhukov defeat Japan on the Manchukuo border.",
-        "spanish": "Fuerzas soviético-mongolas al mando de Zhúkov derrotan a Japón en la frontera de Manchukuo."
-      },
-      "startYear": 1939,
-      "startMonth": 5,
-      "startDay": 11,
-      "endYear": 1939,
-      "endMonth": 9,
-      "endDay": 16,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
     },
     {
       "id": "i-al-italian",
@@ -24479,6 +25379,56 @@
       "lane": null,
       "sortOrder": 18,
       "sourceUrl": "https://en.wikipedia.org/wiki/Francoist_Spain"
+    },
+    {
+      "id": "i-by-1939",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "苏联吞并西白俄罗斯",
+        "english": "Soviet annexation of West Belarus",
+        "spanish": "Anexión soviética de Bielorrusia Occidental"
+      },
+      "note": {
+        "chinese": "根据《苏德互不侵犯条约》，红军入侵波兰，西白俄罗斯并入白俄罗斯苏维埃社会主义共和国。",
+        "english": "Under the Molotov–Ribbentrop Pact the Red Army invades Poland, and West Belarus joins the Byelorussian SSR.",
+        "spanish": "Según el Pacto Mólotov-Ribbentrop, el Ejército Rojo invade Polonia y Bielorrusia Occidental pasa a la RSS de Bielorrusia."
+      },
+      "startYear": 1939,
+      "startMonth": 9,
+      "startDay": 17,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 23,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland"
+    },
+    {
+      "id": "i-mn-khalkhin-gol",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "诺门罕战役",
+        "english": "Battles of Khalkhin Gol",
+        "spanish": "Batallas de Jaljin Gol"
+      },
+      "note": {
+        "chinese": "朱可夫率领的苏蒙军队在伪满边境击败日军。",
+        "english": "Soviet-Mongolian forces under Zhukov defeat Japan on the Manchukuo border.",
+        "spanish": "Fuerzas soviético-mongolas al mando de Zhúkov derrotan a Japón en la frontera de Manchukuo."
+      },
+      "startYear": 1939,
+      "startMonth": 5,
+      "startDay": 11,
+      "endYear": 1939,
+      "endMonth": 9,
+      "endDay": 16,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 28,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
     },
     {
       "id": "i-147",
@@ -24802,6 +25752,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
     },
     {
+      "id": "i-la-franco-thai-war",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "法泰战争",
+        "english": "Franco-Thai War",
+        "spanish": "Guerra franco-tailandesa"
+      },
+      "note": {
+        "chinese": "泰国与维希法国交战，意图收复朱拉隆功时期割让给法属印度支那的领土。",
+        "english": "Thailand fights Vichy France to regain lands it ceded to French Indochina under King Chulalongkorn.",
+        "spanish": "Tailandia lucha contra la Francia de Vichy para recuperar las tierras cedidas a la Indochina francesa bajo el rey Chulalongkorn."
+      },
+      "startYear": 1940,
+      "startMonth": 10,
+      "startDay": null,
+      "endYear": 1941,
+      "endMonth": 1,
+      "endDay": 28,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 14,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franco-Thai_War"
+    },
+    {
       "id": "i-it-wwii",
       "groupId": "g-italy",
       "label": {
@@ -24943,31 +25918,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II_in_Yugoslavia"
     },
     {
-      "id": "i-by-wwii",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "纳粹占领",
-        "english": "Nazi occupation",
-        "spanish": "Ocupación nazi"
-      },
-      "note": {
-        "chinese": "白俄罗斯失去约四分之一人口，哈廷等数百个村庄被焚毁。",
-        "english": "Belarus loses about a quarter of its people; hundreds of villages like Khatyn are burned.",
-        "spanish": "Bielorrusia pierde cerca de una cuarta parte de su población; cientos de aldeas como Jatyn son quemadas."
-      },
-      "startYear": 1941,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1944,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 8,
-      "sourceUrl": "https://en.wikipedia.org/wiki/German_occupation_of_Byelorussia_during_World_War_II"
-    },
-    {
       "id": "i-lt-holocaust",
       "groupId": "g-lithuania",
       "label": {
@@ -25064,6 +26014,106 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/Axis_occupation_of_Greece"
+    },
+    {
+      "id": "i-by-wwii",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "纳粹占领",
+        "english": "Nazi occupation",
+        "spanish": "Ocupación nazi"
+      },
+      "note": {
+        "chinese": "白俄罗斯失去约四分之一人口，哈廷等数百个村庄被焚毁。",
+        "english": "Belarus loses about a quarter of its people; hundreds of villages like Khatyn are burned.",
+        "spanish": "Bielorrusia pierde cerca de una cuarta parte de su población; cientos de aldeas como Jatyn son quemadas."
+      },
+      "startYear": 1941,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1944,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 24,
+      "sourceUrl": "https://en.wikipedia.org/wiki/German_occupation_of_Byelorussia_during_World_War_II"
+    },
+    {
+      "id": "i-by-holocaust",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "白俄罗斯的大屠杀",
+        "english": "Holocaust in Belarus",
+        "spanish": "Holocausto en Bielorrusia"
+      },
+      "note": {
+        "chinese": "估计80%至90%的白俄罗斯犹太人遇害，地点包括明斯克犹太隔离区、马雷特罗斯佳涅茨等地。",
+        "english": "An estimated 80–90% of Belarusian Jews are murdered, in the Minsk Ghetto, at Maly Trostenets and elsewhere.",
+        "spanish": "Se calcula que entre el 80 y el 90 % de los judíos bielorrusos son asesinados, en el gueto de Minsk, en Maly Trostenets y en otros lugares."
+      },
+      "startYear": 1941,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1944,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 25,
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Holocaust_in_Belarus"
+    },
+    {
+      "id": "i-by-partisans",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "苏联游击队",
+        "english": "Soviet partisans",
+        "spanish": "Partisanos soviéticos"
+      },
+      "note": {
+        "chinese": "至1943年底，游击队控制白俄罗斯约60%的领土；德军报复行动造成约34.5万人死亡，多为平民。",
+        "english": "By late 1943 partisans hold about 60% of Belarus; German reprisals kill some 345,000 people, mostly civilians.",
+        "spanish": "A finales de 1943 los partisanos controlan cerca del 60 % de Bielorrusia; las represalias alemanas matan a unas 345.000 personas, sobre todo civiles."
+      },
+      "startYear": 1941,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1944,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 26,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Soviet_partisans"
+    },
+    {
+      "id": "i-mn-cyrillic",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "采用西里尔字母",
+        "english": "Cyrillic script adopted",
+        "spanish": "Adopción del alfabeto cirílico"
+      },
+      "note": {
+        "chinese": "在苏联影响下，西里尔字母取代传统蒙古文，1941年推行，1946年正式采用。",
+        "english": "Under Soviet influence Cyrillic replaces the traditional Mongolian script, introduced in 1941 and official from 1946.",
+        "spanish": "Bajo influencia soviética, el cirílico sustituye a la escritura mongola tradicional: se introduce en 1941 y es oficial desde 1946."
+      },
+      "startYear": 1941,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1946,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "literature",
+      "color": null,
+      "lane": null,
+      "sortOrder": 29,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_Cyrillic_alphabet"
     },
     {
       "id": "i-100",
@@ -25474,6 +26524,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_Uprising"
     },
     {
+      "id": "i-by-bagration",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "巴格拉季昂行动",
+        "english": "Operation Bagration",
+        "spanish": "Operación Bagratión"
+      },
+      "note": {
+        "chinese": "苏军夏季攻势歼灭德军中央集团军群，解放白俄罗斯。",
+        "english": "The Soviet summer offensive destroys Germany's Army Group Centre and frees Belarus.",
+        "spanish": "La ofensiva soviética de verano destruye el Grupo de Ejércitos Centro alemán y libera Bielorrusia."
+      },
+      "startYear": 1944,
+      "startMonth": 6,
+      "startDay": 22,
+      "endYear": 1944,
+      "endMonth": 8,
+      "endDay": 19,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 27,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Bagration"
+    },
+    {
       "id": "i-074",
       "groupId": "g-us",
       "label": {
@@ -25631,31 +26706,6 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Sukarno"
-    },
-    {
-      "id": "i-la-lao-issara",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "自由老挝运动",
-        "english": "Lao Issara",
-        "spanish": "Lao Issara"
-      },
-      "note": {
-        "chinese": "日本投降后，民族主义运动宣布独立；1946年法国重返。",
-        "english": "Nationalist movement declares independence after Japan's surrender; France returns in 1946.",
-        "spanish": "Movimiento nacionalista que declara la independencia tras la rendición de Japón; Francia regresa en 1946."
-      },
-      "startYear": 1945,
-      "startMonth": 10,
-      "startDay": 12,
-      "endYear": 1949,
-      "endMonth": 10,
-      "endDay": 24,
-      "kind": "movement",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_Issara"
     },
     {
       "id": "i-xk-autonomous-province",
@@ -25879,6 +26929,106 @@
       "lane": null,
       "sortOrder": 14,
       "sourceUrl": "https://en.wikipedia.org/wiki/Allied-occupied_Austria"
+    },
+    {
+      "id": "i-la-1945-independence",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "日本扶持下宣布独立",
+        "english": "Independence under Japan",
+        "spanish": "Independencia bajo Japón"
+      },
+      "note": {
+        "chinese": "日本拘禁法国人后，西萨旺·冯国王在日本压力下宣布独立。",
+        "english": "After Japan interns the French, King Sisavang Vong declares independence under Japanese pressure.",
+        "spanish": "Después de que Japón interne a los franceses, el rey Sisavang Vong proclama la independencia bajo presión japonesa."
+      },
+      "startYear": 1945,
+      "startMonth": 4,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 15,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Laos#World_War_II"
+    },
+    {
+      "id": "i-la-lao-issara",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "自由老挝运动",
+        "english": "Lao Issara",
+        "spanish": "Lao Issara"
+      },
+      "note": {
+        "chinese": "日本投降后，民族主义运动宣布独立；1946年法国重返。",
+        "english": "Nationalist movement declares independence after Japan's surrender; France returns in 1946.",
+        "spanish": "Movimiento nacionalista que declara la independencia tras la rendición de Japón; Francia regresa en 1946."
+      },
+      "startYear": 1945,
+      "startMonth": 10,
+      "startDay": 12,
+      "endYear": 1949,
+      "endMonth": 10,
+      "endDay": 24,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 16,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_Issara"
+    },
+    {
+      "id": "i-by-postwar",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "战后重建",
+        "english": "Postwar rebuilding",
+        "spanish": "Reconstrucción de posguerra"
+      },
+      "note": {
+        "chinese": "明斯克得到重建，白俄罗斯成为苏联工业中心，拥有明斯克汽车厂和别拉斯重型卡车厂。",
+        "english": "Minsk is rebuilt and the republic becomes a Soviet industrial hub, home to the MAZ and BelAZ truck works.",
+        "spanish": "Minsk se reconstruye y la república se convierte en un centro industrial soviético, sede de las fábricas de camiones MAZ y BelAZ."
+      },
+      "startYear": 1945,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1990,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "economy",
+      "color": null,
+      "lane": null,
+      "sortOrder": 28,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus#Post-war_BSSR"
+    },
+    {
+      "id": "i-mn-1945-referendum",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "独立公投",
+        "english": "Independence referendum",
+        "spanish": "Referéndum de independencia"
+      },
+      "note": {
+        "chinese": "官方公布100%赞成独立，中华民国随后予以承认。",
+        "english": "Officially 100% vote for independence, which the Republic of China then recognises.",
+        "spanish": "Según los datos oficiales, el 100 % vota por la independencia, que la República de China reconoce después."
+      },
+      "startYear": 1945,
+      "startMonth": 10,
+      "startDay": 20,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 30,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1945_Mongolian_independence_referendum"
     },
     {
       "id": "i-110",
@@ -26251,6 +27401,31 @@
       "lane": null,
       "sortOrder": 13,
       "sourceUrl": "https://en.wikipedia.org/wiki/Polish_People%27s_Republic"
+    },
+    {
+      "id": "i-la-kingdom",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "老挝王国",
+        "english": "Kingdom of Laos",
+        "spanish": "Reino de Laos"
+      },
+      "note": {
+        "chinese": "君主立宪制王国，自1947年起在法兰西联邦内自治，后被巴特寮废除。",
+        "english": "A constitutional monarchy, self-governing within the French Union from 1947, until the Pathet Lao abolish it.",
+        "spanish": "Una monarquía constitucional, autónoma dentro de la Unión Francesa desde 1947, hasta que el Pathet Lao la abole."
+      },
+      "startYear": 1947,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1975,
+      "endMonth": 12,
+      "endDay": 2,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 17,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
     },
     {
       "id": "i-mm-conflict",
@@ -26854,6 +28029,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Korean_War"
     },
     {
+      "id": "i-la-pathet-lao",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "巴特寮",
+        "english": "Pathet Lao",
+        "spanish": "Pathet Lao"
+      },
+      "note": {
+        "chinese": "与越盟结盟的苏发努冯亲王领导这一新的共产主义运动，该运动于1975年夺取政权。",
+        "english": "Prince Souphanouvong, allied with the Viet Minh, leads the new communist movement; it takes power in 1975.",
+        "spanish": "El príncipe Souphanouvong, aliado del Viet Minh, dirige el nuevo movimiento comunista, que toma el poder en 1975."
+      },
+      "startYear": 1950,
+      "startMonth": 8,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 18,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pathet_Lao"
+    },
+    {
       "id": "i-eu-schuman",
       "groupId": "g-europe",
       "label": {
@@ -26998,6 +28198,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952"
     },
     {
+      "id": "i-mn-tsedenbal",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "泽登巴尔时代",
+        "english": "Tsedenbal era",
+        "spanish": "Era de Tsedenbal"
+      },
+      "note": {
+        "chinese": "尤睦佳·泽登巴尔继乔巴山之后独裁执政，至1984年被罢黜。",
+        "english": "Yumjaagiin Tsedenbal succeeds Choibalsan and rules as a dictator until he is ousted in 1984.",
+        "spanish": "Yumjaagiin Tsedenbal sucede a Choibalsán y gobierna como dictador hasta su destitución en 1984."
+      },
+      "startYear": 1952,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1984,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 31,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yumjaagiin_Tsedenbal"
+    },
+    {
       "id": "i-kh-independence",
       "groupId": "g-cambodia",
       "label": {
@@ -27021,31 +28246,6 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1953%E2%80%931970)"
-    },
-    {
-      "id": "i-la-independence",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "独立",
-        "english": "Independence",
-        "spanish": "Independencia"
-      },
-      "note": {
-        "chinese": "《法老条约》给予老挝王国完全主权。",
-        "english": "The Franco-Lao treaty grants full sovereignty to the Kingdom of Laos.",
-        "spanish": "El tratado franco-laosiano otorga plena soberanía al Reino de Laos."
-      },
-      "startYear": 1953,
-      "startMonth": 10,
-      "startDay": 22,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
     },
     {
       "id": "i-cu-revolution",
@@ -27095,6 +28295,31 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+    },
+    {
+      "id": "i-la-independence",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "独立",
+        "english": "Independence",
+        "spanish": "Independencia"
+      },
+      "note": {
+        "chinese": "《法老条约》给予老挝王国完全主权。",
+        "english": "The Franco-Lao treaty grants full sovereignty to the Kingdom of Laos.",
+        "spanish": "El tratado franco-laosiano otorga plena soberanía al Reino de Laos."
+      },
+      "startYear": 1953,
+      "startMonth": 10,
+      "startDay": 22,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 19,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
     },
     {
       "id": "i-gt-1954-coup",
@@ -27820,31 +29045,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-la-civil-war",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "老挝内战",
-        "english": "Laotian Civil War",
-        "spanish": "Guerra civil de Laos"
-      },
-      "note": {
-        "chinese": "王国政府与共产党巴特寮交战，是越南战争的代理战场。",
-        "english": "The royal government fights the communist Pathet Lao, a proxy front of the Vietnam War.",
-        "spanish": "El gobierno real combate al Pathet Lao comunista, un frente subsidiario de la guerra de Vietnam."
-      },
-      "startYear": 1959,
-      "startMonth": 5,
-      "startDay": 23,
-      "endYear": 1975,
-      "endMonth": 12,
-      "endDay": 2,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Laotian_Civil_War"
-    },
-    {
       "id": "i-cu-castro",
       "groupId": "g-cuba",
       "label": {
@@ -27868,6 +29068,56 @@
       "lane": null,
       "sortOrder": 10,
       "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro"
+    },
+    {
+      "id": "i-la-civil-war",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "老挝内战",
+        "english": "Laotian Civil War",
+        "spanish": "Guerra civil de Laos"
+      },
+      "note": {
+        "chinese": "王国政府与共产党巴特寮交战，是越南战争的代理战场。",
+        "english": "The royal government fights the communist Pathet Lao, a proxy front of the Vietnam War.",
+        "spanish": "El gobierno real combate al Pathet Lao comunista, un frente subsidiario de la guerra de Vietnam."
+      },
+      "startYear": 1959,
+      "startMonth": 5,
+      "startDay": 23,
+      "endYear": 1975,
+      "endMonth": 12,
+      "endDay": 2,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 20,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Laotian_Civil_War"
+    },
+    {
+      "id": "i-la-ho-chi-minh-trail",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "胡志明小道",
+        "english": "Ho Chi Minh Trail",
+        "spanish": "Ruta Ho Chi Minh"
+      },
+      "note": {
+        "chinese": "北越通往南方的补给网络穿过老挝东部；1959年北越入侵老挝后开始修建。",
+        "english": "North Vietnam's supply network to the South runs through eastern Laos; building starts after its 1959 invasion of Laos.",
+        "spanish": "La red de suministros de Vietnam del Norte hacia el Sur cruza el este de Laos; se construye tras su invasión de Laos en 1959."
+      },
+      "startYear": 1959,
+      "startMonth": 7,
+      "startDay": null,
+      "endYear": 1975,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 21,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_trail"
     },
     {
       "id": "i-sk-april-revolution",
@@ -28314,6 +29564,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Berlin_Wall"
     },
     {
+      "id": "i-mn-un",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "加入联合国",
+        "english": "UN membership",
+        "spanish": "Ingreso en la ONU"
+      },
+      "note": {
+        "chinese": "蒙古在联合国获得席位。",
+        "english": "Mongolia takes its seat in the United Nations.",
+        "spanish": "Mongolia ocupa su escaño en las Naciones Unidas."
+      },
+      "startYear": 1961,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 32,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Mongolia#Mongolian_People's_Republic_(1921%E2%80%931992)"
+    },
+    {
       "id": "i-212",
       "groupId": "g-christianity",
       "label": {
@@ -28333,31 +29608,6 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
-    },
-    {
-      "id": "i-la-geneva-1962",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "日内瓦老挝中立协议",
-        "english": "Geneva neutrality agreement",
-        "spanish": "Acuerdo de Ginebra sobre la neutralidad de Laos"
-      },
-      "note": {
-        "chinese": "十四国保证老挝中立，但外国军队基本无视。",
-        "english": "Fourteen nations guarantee Laos's neutrality; foreign forces largely ignore it.",
-        "spanish": "Catorce países garantizan la neutralidad de Laos; las fuerzas extranjeras la ignoran en gran medida."
-      },
-      "startYear": 1962,
-      "startMonth": 7,
-      "startDay": 23,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/International_Agreement_on_the_Neutrality_of_Laos"
     },
     {
       "id": "i-mm-ne-win",
@@ -28454,6 +29704,31 @@
       "lane": null,
       "sortOrder": 12,
       "sourceUrl": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+    },
+    {
+      "id": "i-la-geneva-1962",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "日内瓦老挝中立协议",
+        "english": "Geneva neutrality agreement",
+        "spanish": "Acuerdo de Ginebra sobre la neutralidad de Laos"
+      },
+      "note": {
+        "chinese": "十四国保证老挝中立，但外国军队基本无视。",
+        "english": "Fourteen nations guarantee Laos's neutrality; foreign forces largely ignore it.",
+        "spanish": "Catorce países garantizan la neutralidad de Laos; las fuerzas extranjeras la ignoran en gran medida."
+      },
+      "startYear": 1962,
+      "startMonth": 7,
+      "startDay": 23,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 22,
+      "sourceUrl": "https://en.wikipedia.org/wiki/International_Agreement_on_the_Neutrality_of_Laos"
     },
     {
       "id": "i-103",
@@ -28646,31 +29921,6 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/Organisation_of_African_Unity"
-    },
-    {
-      "id": "i-la-secret-war",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "美国“秘密战争”与轰炸",
-        "english": "US 'Secret War' and bombing",
-        "spanish": "«Guerra secreta» y bombardeos de EE. UU."
-      },
-      "note": {
-        "chinese": "逾两百万吨炸弹使老挝成为人均遭轰炸最多的国家，未爆弹至今仍致人死伤。",
-        "english": "Over two million tonnes of bombs make Laos the most heavily bombed country per capita; unexploded ordnance still kills.",
-        "spanish": "Más de dos millones de toneladas de bombas convierten a Laos en el país más bombardeado per cápita; las municiones sin explotar aún matan."
-      },
-      "startYear": 1964,
-      "startMonth": 5,
-      "startDay": null,
-      "endYear": 1973,
-      "endMonth": 4,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Secret_War"
     },
     {
       "id": "i-sg-1964-riots",
@@ -28868,6 +30118,31 @@
       "lane": null,
       "sortOrder": 11,
       "sourceUrl": "https://en.wikipedia.org/wiki/Rivonia_Trial"
+    },
+    {
+      "id": "i-la-secret-war",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "美国“秘密战争”与轰炸",
+        "english": "US 'Secret War' and bombing",
+        "spanish": "«Guerra secreta» y bombardeos de EE. UU."
+      },
+      "note": {
+        "chinese": "逾两百万吨炸弹使老挝成为人均遭轰炸最多的国家，未爆弹至今仍致人死伤。",
+        "english": "Over two million tonnes of bombs make Laos the most heavily bombed country per capita; unexploded ordnance still kills.",
+        "spanish": "Más de dos millones de toneladas de bombas convierten a Laos en el país más bombardeado per cápita; las municiones sin explotar aún matan."
+      },
+      "startYear": 1964,
+      "startMonth": 5,
+      "startDay": null,
+      "endYear": 1973,
+      "endMonth": 4,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 23,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Barrel_Roll"
     },
     {
       "id": "i-081",
@@ -30137,31 +31412,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Cambodian_genocide"
     },
     {
-      "id": "i-la-lpdr",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "老挝人民民主共和国",
-        "english": "Lao People's Democratic Republic",
-        "spanish": "República Democrática Popular Lao"
-      },
-      "note": {
-        "chinese": "巴特寮废除君主制，老挝人民革命党一党执政。",
-        "english": "The Pathet Lao abolish the monarchy; one-party rule under the Lao People's Revolutionary Party.",
-        "spanish": "El Pathet Lao abole la monarquía; régimen de partido único del Partido Popular Revolucionario Lao."
-      },
-      "startYear": 1975,
-      "startMonth": 12,
-      "startDay": 2,
-      "endYear": 2026,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_People%27s_Revolutionary_Party"
-    },
-    {
       "id": "i-nz-waitangi-tribunal",
       "groupId": "g-new-zealand",
       "label": {
@@ -30258,6 +31508,56 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_transition_to_democracy"
+    },
+    {
+      "id": "i-la-hmong-insurgency",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "苗族流亡与叛乱",
+        "english": "Hmong exodus and insurgency",
+        "spanish": "Éxodo e insurgencia hmong"
+      },
+      "note": {
+        "chinese": "多达20万苗族人逃往泰国；其余苗族人与保皇派一起对新政权进行低强度武装反抗。",
+        "english": "Up to 200,000 Hmong flee to Thailand; others, with royalists, keep up a low-level insurgency against the new regime.",
+        "spanish": "Hasta 200.000 hmong huyen a Tailandia; otros, junto a monárquicos, mantienen una insurgencia de baja intensidad contra el nuevo régimen."
+      },
+      "startYear": 1975,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 2026,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 24,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Insurgency_in_Laos"
+    },
+    {
+      "id": "i-la-lpdr",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "老挝人民民主共和国",
+        "english": "Lao People's Democratic Republic",
+        "spanish": "República Democrática Popular Lao"
+      },
+      "note": {
+        "chinese": "巴特寮废除君主制，老挝人民革命党一党执政。",
+        "english": "The Pathet Lao abolish the monarchy; one-party rule under the Lao People's Revolutionary Party.",
+        "spanish": "El Pathet Lao abole la monarquía; régimen de partido único del Partido Popular Revolucionario Lao."
+      },
+      "startYear": 1975,
+      "startMonth": 12,
+      "startDay": 2,
+      "endYear": 2026,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 25,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lao_People%27s_Revolutionary_Party"
     },
     {
       "id": "i-089",
@@ -31370,56 +32670,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-la-new-economic-mechanism",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "新经济机制",
-        "english": "New Economic Mechanism",
-        "spanish": "Nuevo Mecanismo Económico"
-      },
-      "note": {
-        "chinese": "市场化改革开放计划经济，与越南革新开放相似。",
-        "english": "Market reforms open the planned economy, much like Vietnam's Đổi Mới.",
-        "spanish": "Reformas de mercado abren la economía planificada, al estilo del Đổi Mới vietnamita."
-      },
-      "startYear": 1986,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "economy",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Economy_of_Laos"
-    },
-    {
-      "id": "i-by-chernobyl",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "切尔诺贝利核尘降落",
-        "english": "Chernobyl fallout",
-        "spanish": "Lluvia radiactiva de Chernóbil"
-      },
-      "note": {
-        "chinese": "乌克兰反应堆泄漏的放射性尘埃约70%落在白俄罗斯。",
-        "english": "About 70% of the fallout from the Ukrainian reactor lands on Belarus.",
-        "spanish": "Cerca del 70 % de la lluvia radiactiva del reactor ucraniano cae sobre Bielorrusia."
-      },
-      "startYear": 1986,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "other",
-      "color": null,
-      "lane": null,
-      "sortOrder": 9,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
-    },
-    {
       "id": "i-is-reykjavik-summit",
       "groupId": "g-iceland",
       "label": {
@@ -31491,6 +32741,56 @@
       "lane": null,
       "sortOrder": 20,
       "sourceUrl": "https://en.wikipedia.org/wiki/Accession_of_Spain_and_Portugal_to_the_European_Communities"
+    },
+    {
+      "id": "i-la-new-economic-mechanism",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "新经济机制",
+        "english": "New Economic Mechanism",
+        "spanish": "Nuevo Mecanismo Económico"
+      },
+      "note": {
+        "chinese": "市场化改革开放计划经济，与越南革新开放相似。",
+        "english": "Market reforms open the planned economy, much like Vietnam's Đổi Mới.",
+        "spanish": "Reformas de mercado abren la economía planificada, al estilo del Đổi Mới vietnamita."
+      },
+      "startYear": 1986,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "economy",
+      "color": null,
+      "lane": null,
+      "sortOrder": 26,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_Economic_Mechanism_(Laos)"
+    },
+    {
+      "id": "i-by-chernobyl",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "切尔诺贝利核尘降落",
+        "english": "Chernobyl fallout",
+        "spanish": "Lluvia radiactiva de Chernóbil"
+      },
+      "note": {
+        "chinese": "乌克兰核反应堆落在苏联境内的放射性尘埃中，约60%落在白俄罗斯。",
+        "english": "Belarus receives about 60% of the fallout that lands on the Soviet Union from the Ukrainian reactor.",
+        "spanish": "Bielorrusia recibe cerca del 60 % de la lluvia radiactiva del reactor ucraniano que cae sobre la Unión Soviética."
+      },
+      "startYear": 1986,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 29,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Effects_of_the_Chernobyl_disaster"
     },
     {
       "id": "i-eu-single-act",
@@ -31812,31 +33112,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
     },
     {
-      "id": "i-mn-1990-revolution",
-      "groupId": "g-mongolia",
-      "label": {
-        "chinese": "民主革命",
-        "english": "Democratic Revolution",
-        "spanish": "Revolución democrática"
-      },
-      "note": {
-        "chinese": "和平抗议结束一党统治，随后举行多党选举。",
-        "english": "Peaceful protests end one-party rule; multi-party elections follow.",
-        "spanish": "Protestas pacíficas ponen fin al régimen de partido único; siguen elecciones multipartidistas."
-      },
-      "startYear": 1989,
-      "startMonth": 12,
-      "startDay": 10,
-      "endYear": 1990,
-      "endMonth": 3,
-      "endDay": 9,
-      "kind": "movement",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1990"
-    },
-    {
       "id": "i-md-language-law",
       "groupId": "g-moldova",
       "label": {
@@ -32131,6 +33406,56 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Caracazo"
     },
     {
+      "id": "i-by-bpf",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "白俄罗斯人民阵线",
+        "english": "Belarusian Popular Front",
+        "spanish": "Frente Popular Bielorruso"
+      },
+      "note": {
+        "chinese": "兹扬农·帕兹尼亚克领导的运动曾于1988年揭露库罗帕蒂墓地，此时在维尔纽斯成立人民阵线，推动独立。",
+        "english": "Zianon Pazniak's movement, which exposed the Kurapaty graves in 1988, founds the Front in Vilnius; it leads the push for independence.",
+        "spanish": "El movimiento de Zianón Pazniak, que destapó las fosas de Kurapaty en 1988, funda el Frente en Vilna; encabeza el impulso hacia la independencia."
+      },
+      "startYear": 1989,
+      "startMonth": 6,
+      "startDay": 25,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 30,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belarusian_Popular_Front"
+    },
+    {
+      "id": "i-mn-1990-revolution",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "民主革命",
+        "english": "Democratic Revolution",
+        "spanish": "Revolución democrática"
+      },
+      "note": {
+        "chinese": "和平抗议结束一党统治，随后举行多党选举。",
+        "english": "Peaceful protests end one-party rule; multi-party elections follow.",
+        "spanish": "Protestas pacíficas ponen fin al régimen de partido único; siguen elecciones multipartidistas."
+      },
+      "startYear": 1989,
+      "startMonth": 12,
+      "startDay": 10,
+      "endYear": 1990,
+      "endMonth": 3,
+      "endDay": 9,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 33,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongolian_Revolution_of_1990"
+    },
+    {
       "id": "i-sg-goh-chok-tong",
       "groupId": "g-singapore",
       "label": {
@@ -32248,6 +33573,31 @@
       "lane": null,
       "sortOrder": 18,
       "sourceUrl": "https://en.wikipedia.org/wiki/German_reunification"
+    },
+    {
+      "id": "i-by-sovereignty",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "《国家主权宣言》",
+        "english": "Declaration of State Sovereignty",
+        "spanish": "Declaración de Soberanía Estatal"
+      },
+      "note": {
+        "chinese": "白俄罗斯苏维埃社会主义共和国宣布在苏联内拥有国家主权。",
+        "english": "The Byelorussian SSR declares sovereignty within the USSR.",
+        "spanish": "La RSS de Bielorrusia declara su soberanía dentro de la URSS."
+      },
+      "startYear": 1990,
+      "startMonth": 7,
+      "startDay": 27,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 31,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus#Perestroika_and_Glasnost"
     },
     {
       "id": "i-083",
@@ -32491,31 +33841,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_communism_in_Albania"
     },
     {
-      "id": "i-by-belovezha",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "《别洛韦日协议》",
-        "english": "Belovezha Accords",
-        "spanish": "Acuerdos de Belavezha"
-      },
-      "note": {
-        "chinese": "俄罗斯、乌克兰和白俄罗斯领导人在白俄罗斯一处狩猎庄园宣布解散苏联。",
-        "english": "Leaders of Russia, Ukraine and Belarus dissolve the USSR at a Belarusian hunting lodge.",
-        "spanish": "Los líderes de Rusia, Ucrania y Bielorrusia disuelven la URSS en un pabellón de caza bielorruso."
-      },
-      "startYear": 1991,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 10,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Belovezha_Accords"
-    },
-    {
       "id": "i-lv-barricades",
       "groupId": "g-latvia",
       "label": {
@@ -32713,6 +34038,106 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/Colombian_Constitution_of_1991"
+    },
+    {
+      "id": "i-la-constitution",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "1991年宪法",
+        "english": "Constitution of 1991",
+        "spanish": "Constitución de 1991"
+      },
+      "note": {
+        "chinese": "老挝人民民主共和国第一部成文宪法，距建国已16年。",
+        "english": "The first written constitution of the Lao PDR, 16 years after the republic was founded.",
+        "spanish": "La primera constitución escrita de la RDP Lao, 16 años después de fundarse la república."
+      },
+      "startYear": 1991,
+      "startMonth": 8,
+      "startDay": 14,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 27,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Constitution_of_Laos"
+    },
+    {
+      "id": "i-by-independence",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "独立",
+        "english": "Independence",
+        "spanish": "Independencia"
+      },
+      "note": {
+        "chinese": "莫斯科八一九事件失败后，议会宣布完全脱离苏联独立。",
+        "english": "After the failed August Coup in Moscow, parliament declares full independence from the USSR.",
+        "spanish": "Tras el fracaso del golpe de agosto en Moscú, el parlamento declara la plena independencia de la URSS."
+      },
+      "startYear": 1991,
+      "startMonth": 8,
+      "startDay": 25,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 32,
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus#Independent_country_and_the_Commonwealth"
+    },
+    {
+      "id": "i-by-belovezha",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "《别洛韦日协议》",
+        "english": "Belovezha Accords",
+        "spanish": "Acuerdos de Belavezha"
+      },
+      "note": {
+        "chinese": "俄罗斯、乌克兰和白俄罗斯领导人在白俄罗斯一处狩猎庄园宣布解散苏联。",
+        "english": "Leaders of Russia, Ukraine and Belarus dissolve the USSR at a Belarusian hunting lodge.",
+        "spanish": "Los líderes de Rusia, Ucrania y Bielorrusia disuelven la URSS en un pabellón de caza bielorruso."
+      },
+      "startYear": 1991,
+      "startMonth": 12,
+      "startDay": 8,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 33,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belovezha_Accords"
+    },
+    {
+      "id": "i-mn-market",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "向市场经济转型",
+        "english": "Shift to a market economy",
+        "spanish": "Paso a la economía de mercado"
+      },
+      "note": {
+        "chinese": "苏联援助终止导致严重衰退；经济于90年代末恢复增长，蒙古于1997年加入世界贸易组织。",
+        "english": "The end of Soviet aid brings a severe recession; growth returns in the late 1990s and Mongolia joins the WTO in 1997.",
+        "spanish": "El fin de la ayuda soviética provoca una grave recesión; el crecimiento vuelve a finales de los noventa y Mongolia entra en la OMC en 1997."
+      },
+      "startYear": 1991,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1997,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "economy",
+      "color": null,
+      "lane": null,
+      "sortOrder": 34,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Economy_of_Mongolia"
     },
     {
       "id": "i-sv-chapultepec",
@@ -32960,6 +34385,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Demolition_of_the_Babri_Masjid"
     },
     {
+      "id": "i-mn-constitution",
+      "groupId": "g-mongolia",
+      "label": {
+        "chinese": "1992年宪法",
+        "english": "Constitution of 1992",
+        "spanish": "Constitución de 1992"
+      },
+      "note": {
+        "chinese": "民主宪法终结了蒙古人民共和国和一党统治。",
+        "english": "A democratic constitution ends the Mongolian People's Republic and one-party rule.",
+        "spanish": "Una constitución democrática pone fin a la República Popular de Mongolia y al partido único."
+      },
+      "startYear": 1992,
+      "startMonth": 1,
+      "startDay": 13,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 35,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Constitution_of_Mongolia"
+    },
+    {
       "id": "i-eu-maastricht",
       "groupId": "g-europe",
       "label": {
@@ -33158,31 +34608,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Dissolution_of_Czechoslovakia"
     },
     {
-      "id": "i-la-friendship-bridge",
-      "groupId": "g-laos",
-      "label": {
-        "chinese": "第一座泰老友谊大桥通车",
-        "english": "First Thai–Lao Friendship Bridge opens",
-        "spanish": "Inauguración del primer Puente de la Amistad tailandés-laosiano"
-      },
-      "note": {
-        "chinese": "下湄公河上第一座大桥，连接万象与廊开。",
-        "english": "First bridge across the lower Mekong, linking Vientiane with Nong Khai.",
-        "spanish": "Primer puente sobre el bajo Mekong; une Vientián con Nong Khai."
-      },
-      "startYear": 1994,
-      "startMonth": 4,
-      "startDay": 8,
-      "endYear": null,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "technology",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": "https://en.wikipedia.org/wiki/First_Thai%E2%80%93Lao_Friendship_Bridge"
-    },
-    {
       "id": "i-nk-kim-jong-il",
       "groupId": "g-north-korea",
       "label": {
@@ -33258,31 +34683,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Gagauzia"
     },
     {
-      "id": "i-by-lukashenko",
-      "groupId": "g-belarus",
-      "label": {
-        "chinese": "卢卡申科统治",
-        "english": "Lukashenko's rule",
-        "spanish": "Gobierno de Lukashenko"
-      },
-      "note": {
-        "chinese": "亚历山大·卢卡申科赢得首次总统选举，此后一直执政。",
-        "english": "Alexander Lukashenko wins the first presidential election and rules ever since.",
-        "spanish": "Aleksandr Lukashenko gana las primeras elecciones presidenciales y gobierna desde entonces."
-      },
-      "startYear": 1994,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 2026,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 11,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Lukashenko"
-    },
-    {
       "id": "i-za-1994-election",
       "groupId": "g-south-africa",
       "label": {
@@ -33331,6 +34731,56 @@
       "lane": null,
       "sortOrder": 20,
       "sourceUrl": "https://en.wikipedia.org/wiki/Rwandan_genocide"
+    },
+    {
+      "id": "i-la-friendship-bridge",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "第一座泰老友谊大桥通车",
+        "english": "First Thai–Lao Friendship Bridge opens",
+        "spanish": "Inauguración del primer Puente de la Amistad tailandés-laosiano"
+      },
+      "note": {
+        "chinese": "下湄公河上第一座大桥，连接万象与廊开。",
+        "english": "First bridge across the lower Mekong, linking Vientiane with Nong Khai.",
+        "spanish": "Primer puente sobre el bajo Mekong; une Vientián con Nong Khai."
+      },
+      "startYear": 1994,
+      "startMonth": 4,
+      "startDay": 8,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "technology",
+      "color": null,
+      "lane": null,
+      "sortOrder": 28,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Thai%E2%80%93Lao_Friendship_Bridge"
+    },
+    {
+      "id": "i-by-lukashenko",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "卢卡申科统治",
+        "english": "Lukashenko's rule",
+        "spanish": "Gobierno de Lukashenko"
+      },
+      "note": {
+        "chinese": "亚历山大·卢卡申科赢得首次总统选举，此后一直执政。",
+        "english": "Alexander Lukashenko wins the first presidential election and rules ever since.",
+        "spanish": "Aleksandr Lukashenko gana las primeras elecciones presidenciales y gobierna desde entonces."
+      },
+      "startYear": 1994,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 2026,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 34,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Lukashenko"
     },
     {
       "id": "i-119",
@@ -33504,6 +34954,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Tiigrih%C3%BCpe"
     },
     {
+      "id": "i-by-referendum-1996",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "1996年全民公决",
+        "english": "1996 referendum",
+        "spanish": "Referéndum de 1996"
+      },
+      "note": {
+        "chinese": "修宪大幅扩大卢卡申科的权力；欧安组织认为投票远未达到民主标准。",
+        "english": "Constitutional changes greatly widen Lukashenko's powers; the OSCE finds the vote falls far short of democratic standards.",
+        "spanish": "Los cambios constitucionales amplían mucho los poderes de Lukashenko; la OSCE considera que la votación dista mucho de los estándares democráticos."
+      },
+      "startYear": 1996,
+      "startMonth": 11,
+      "startDay": 24,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 35,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1996_Belarusian_referendum"
+    },
+    {
       "id": "i-120",
       "groupId": "g-asean",
       "label": {
@@ -33598,6 +35073,31 @@
       "lane": null,
       "sortOrder": 11,
       "sourceUrl": "https://en.wikipedia.org/wiki/Kofi_Annan"
+    },
+    {
+      "id": "i-la-asean",
+      "groupId": "g-laos",
+      "label": {
+        "chinese": "加入东盟",
+        "english": "Joins ASEAN",
+        "spanish": "Ingreso en la ASEAN"
+      },
+      "note": {
+        "chinese": "老挝与缅甸同时加入东盟。",
+        "english": "Laos joins ASEAN together with Myanmar.",
+        "spanish": "Laos ingresa en la ASEAN junto con Myanmar."
+      },
+      "startYear": 1997,
+      "startMonth": 7,
+      "startDay": 23,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 29,
+      "sourceUrl": "https://en.wikipedia.org/wiki/ASEAN"
     },
     {
       "id": "i-id-reformasi",
@@ -34011,6 +35511,31 @@
       "lane": null,
       "sortOrder": 21,
       "sourceUrl": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez"
+    },
+    {
+      "id": "i-by-union-state",
+      "groupId": "g-belarus",
+      "label": {
+        "chinese": "俄白联盟国家",
+        "english": "Union State with Russia",
+        "spanish": "Estado de la Unión con Rusia"
+      },
+      "note": {
+        "chinese": "条约将白俄罗斯与俄罗斯结为超国家联盟，推进经济和国防一体化。",
+        "english": "A treaty binds Belarus and Russia in a supranational union for economic and defence integration.",
+        "spanish": "Un tratado une a Bielorrusia y Rusia en una unión supranacional de integración económica y militar."
+      },
+      "startYear": 1999,
+      "startMonth": 12,
+      "startDay": 8,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 36,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Union_State"
     },
     {
       "id": "i-eu-euro",
