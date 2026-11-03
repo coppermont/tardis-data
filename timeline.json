@@ -1312,6 +1312,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Aboriginal_Australians"
     },
     {
+      "id": "i-fr-lascaux",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "拉斯科洞窟壁画",
+        "english": "Lascaux cave paintings",
+        "spanish": "Pinturas de la cueva de Lascaux"
+      },
+      "note": {
+        "chinese": "多尔多涅省600多幅旧石器时代晚期的动物壁画。年代为约数。",
+        "english": "Over 600 Upper Paleolithic wall paintings of animals in the Dordogne. Dates approximate.",
+        "spanish": "Más de 600 pinturas rupestres de animales del Paleolítico superior en la Dordoña. Fechas aproximadas."
+      },
+      "startYear": -19999,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -14999,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lascaux"
+    },
+    {
       "id": "i-jp-jomon",
       "groupId": "g-japan",
       "label": {
@@ -1406,6 +1431,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Canada"
+    },
+    {
+      "id": "i-vn-hoabinhian",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "和平文化",
+        "english": "Hòa Bình culture",
+        "spanish": "Cultura de Hòa Bình"
+      },
+      "note": {
+        "chinese": "东南亚狩猎采集者的石器传统，以越南和平省命名。年代为约数。",
+        "english": "Hunter-gatherer stone-tool tradition of Southeast Asia, named after Hòa Bình province. Dates approximate.",
+        "spanish": "Tradición lítica de cazadores-recolectores del Sudeste Asiático, llamada así por la provincia de Hòa Bình. Fechas aproximadas."
+      },
+      "startYear": -9999,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -1999,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hoabinhian"
     },
     {
       "id": "i-us-archaic",
@@ -2613,30 +2663,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Iberians"
     },
     {
-      "id": "i-vn-dong-son",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "东山文化",
-        "english": "Đông Sơn culture",
-        "spanish": "Cultura Đông Sơn"
-      },
-      "note": {
-        "english": "Bronze Age culture of the Red River delta, famed for its bronze drums.",
-        "spanish": "Cultura de la Edad del Bronce del delta del río Rojo, famosa por sus tambores de bronce."
-      },
-      "startYear": -1000,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": -100,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "other",
-      "color": null,
-      "lane": null,
-      "sortOrder": -3,
-      "sourceUrl": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_S%C6%A1n_culture"
-    },
-    {
       "id": "i-ar-precolumbian",
       "groupId": "g-argentina",
       "label": {
@@ -2710,6 +2736,31 @@
       "lane": null,
       "sortOrder": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Bantu_expansion"
+    },
+    {
+      "id": "i-vn-dong-son",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "东山文化",
+        "english": "Đông Sơn culture",
+        "spanish": "Cultura Đông Sơn"
+      },
+      "note": {
+        "chinese": "红河三角洲的青铜时代文化，以铜鼓闻名。年代为约数。",
+        "english": "Bronze Age culture of the Red River delta, famed for its bronze drums. Dates approximate.",
+        "spanish": "Cultura de la Edad del Bronce del delta del río Rojo, famosa por sus tambores de bronce. Fechas aproximadas."
+      },
+      "startYear": -999,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 100,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_S%C6%A1n_culture"
     },
     {
       "id": "i-tr-ionia",
@@ -3188,19 +3239,20 @@
         "spanish": "Văn Lang y Âu Lạc"
       },
       "note": {
-        "english": "Early kingdoms of the legendary Hồng Bàng and An Dương Vương, before Chinese rule.",
-        "spanish": "Primeros reinos del legendario Hồng Bàng y de An Dương Vương, antes del dominio chino."
+        "chinese": "半传说中雄王的文郎国于公元前257年并入安阳王的瓯雒国，瓯雒于公元前179年被南越吞并。起始年代为约数。",
+        "english": "Văn Lang of the partly legendary Hùng kings merges into An Dương Vương's Âu Lạc in 257 BC, which falls to Nanyue in 179 BC. Start approximate.",
+        "spanish": "Văn Lang, de los reyes Hùng en parte legendarios, se integra en el Âu Lạc de An Dương Vương en 257 a. C., que cae ante Nanyue en 179 a. C. Inicio aproximado."
       },
       "startYear": -700,
       "startMonth": null,
       "startDay": null,
-      "endYear": -207,
+      "endYear": -178,
       "endMonth": null,
       "endDay": null,
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": -2,
+      "sortOrder": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/V%C4%83n_Lang"
     },
     {
@@ -3324,6 +3376,31 @@
       "lane": null,
       "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a"
+    },
+    {
+      "id": "i-fr-massalia",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "希腊人建立马萨利亚（马赛）",
+        "english": "Greeks found Massalia",
+        "spanish": "Los griegos fundan Massalia"
+      },
+      "note": {
+        "chinese": "福西亚的伊奥尼亚人在今马赛建立殖民地，成为西地中海希腊贸易中心。年代为约数。",
+        "english": "Ionians from Phocaea settle what is now Marseille, the hub of Greek trade in the western Mediterranean. Date approximate.",
+        "spanish": "Jonios de Focea se asientan en la actual Marsella, centro del comercio griego en el Mediterráneo occidental. Fecha aproximada."
+      },
+      "startYear": -599,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 1,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Massalia"
     },
     {
       "id": "i-il-fall-jerusalem-babylon",
@@ -3581,30 +3658,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Athenian_democracy"
     },
     {
-      "id": "i-fr-gauls",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "高卢（凯尔特人）",
-        "english": "Celtic Gaul (the Gauls)",
-        "spanish": "Galia celta (los galos)"
-      },
-      "note": {
-        "english": "Celtic La Tène peoples inhabit Gaul before the Roman conquest.",
-        "spanish": "Los pueblos celtas de La Tène habitan la Galia antes de la conquista romana."
-      },
-      "startYear": -500,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": -58,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "other",
-      "color": null,
-      "lane": null,
-      "sortOrder": -6,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Gaul"
-    },
-    {
       "id": "i-de-germanic-origins",
       "groupId": "g-germany",
       "label": {
@@ -3652,6 +3705,31 @@
       "lane": null,
       "sortOrder": 1,
       "sourceUrl": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+    },
+    {
+      "id": "i-fr-gauls",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "高卢（凯尔特人）",
+        "english": "Celtic Gaul (the Gauls)",
+        "spanish": "Galia celta (los galos)"
+      },
+      "note": {
+        "chinese": "拉坦诺文化的凯尔特诸族在罗马征服前居住于高卢。年代为约数。",
+        "english": "Celtic peoples of the La Tène culture inhabit Gaul before the Roman conquest. Dates approximate.",
+        "spanish": "Pueblos celtas de la cultura de La Tène habitan la Galia antes de la conquista romana. Fechas aproximadas."
+      },
+      "startYear": -499,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -58,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 2,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gaul"
     },
     {
       "id": "i-gr-persian-wars",
@@ -4479,6 +4557,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom"
     },
     {
+      "id": "i-vn-nanyue",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "南越国（赵氏王朝）",
+        "english": "Nanyue (Triệu dynasty)",
+        "spanish": "Nanyue (dinastía Triệu)"
+      },
+      "note": {
+        "chinese": "赵佗以广东为中心建立的王国，吞并瓯雒；公元前111年被汉朝所灭。",
+        "english": "Zhao Tuo's kingdom, based in Guangdong, absorbs Âu Lạc; the Han conquer it in 111 BC.",
+        "spanish": "El reino de Zhao Tuo, con base en Cantón, absorbe Âu Lạc; los Han lo conquistan en 111 a. C."
+      },
+      "startYear": -178,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": -110,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 3,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nanyue"
+    },
+    {
       "id": "i-gr-roman-conquest",
       "groupId": "g-greece",
       "label": {
@@ -4604,10 +4707,11 @@
         "spanish": "Dominación china (Bắc thuộc)"
       },
       "note": {
-        "english": "Over a millennium of Chinese rule, from the Han conquest to independence in 939.",
-        "spanish": "Más de un milenio de dominio chino, desde la conquista Han hasta la independencia en 939."
+        "chinese": "从汉朝吞并南越到939年吴朝建立，中国统治越南逾千年。",
+        "english": "Over a millennium of Chinese rule, from the Han annexation of Nanyue to the Ngô dynasty in 939.",
+        "spanish": "Más de un milenio de dominio chino, desde la anexión de Nanyue por los Han hasta la dinastía Ngô en 939."
       },
-      "startYear": -111,
+      "startYear": -110,
       "startMonth": null,
       "startDay": null,
       "endYear": 939,
@@ -4616,8 +4720,8 @@
       "kind": "colonial",
       "color": null,
       "lane": null,
-      "sortOrder": -1,
-      "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_domination_of_Vietnam"
+      "sortOrder": 4,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnam_under_Chinese_rule"
     },
     {
       "id": "i-nl-batavians",
@@ -4770,8 +4874,9 @@
         "spanish": "Conquista de la Galia por César (Guerras de las Galias)"
       },
       "note": {
-        "english": "The Gallic Wars bring Gaul under Roman control.",
-        "spanish": "Las Guerras de las Galias ponen a la Galia bajo control romano."
+        "chinese": "尤利乌斯·凯撒征服高卢；公元前52年维钦托利在阿莱西亚战败，大局遂定。",
+        "english": "Julius Caesar conquers Gaul; Vercingetorix's defeat at Alesia in 52 BC decides it.",
+        "spanish": "Julio César conquista la Galia; la derrota de Vercingétorix en Alesia en 52 a. C. lo decide."
       },
       "startYear": -58,
       "startMonth": null,
@@ -4782,7 +4887,7 @@
       "kind": "war",
       "color": null,
       "lane": null,
-      "sortOrder": -5,
+      "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/Gallic_Wars"
     },
     {
@@ -4892,8 +4997,9 @@
         "spanish": "Galia romana"
       },
       "note": {
-        "english": "Gaul organized as Roman provinces until the fall of Roman rule in the West.",
-        "spanish": "La Galia organizada como provincias romanas hasta la caída del dominio romano en Occidente."
+        "chinese": "高卢被划为罗马行省，直至5世纪罗马统治崩溃。",
+        "english": "Gaul is organised as Roman provinces until Roman rule collapses in the 5th century.",
+        "spanish": "La Galia se organiza en provincias romanas hasta el colapso del dominio romano en el siglo V."
       },
       "startYear": -51,
       "startMonth": null,
@@ -4904,7 +5010,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": -4,
+      "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Roman_Gaul"
     },
     {
@@ -5159,6 +5265,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
+    },
+    {
+      "id": "i-vn-trung-sisters",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "二征起义",
+        "english": "Trưng Sisters' rebellion",
+        "spanish": "Rebelión de las hermanas Trưng"
+      },
+      "note": {
+        "chinese": "征侧、征贰姐妹起兵反抗汉朝统治，被马援镇压。",
+        "english": "Trưng Trắc and Trưng Nhị rise against Han rule; General Ma Yuan crushes the revolt.",
+        "spanish": "Trưng Trắc y Trưng Nhị se alzan contra el dominio Han; el general Ma Yuan aplasta la revuelta."
+      },
+      "startYear": 40,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 43,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 5,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tr%C6%B0ng_sisters%27_rebellion"
     },
     {
       "id": "i-uk-roman-britain",
@@ -5560,6 +5691,31 @@
       "lane": null,
       "sortOrder": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Mongolia#Xianbei_(147%E2%80%93234)"
+    },
+    {
+      "id": "i-vn-champa",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "占婆",
+        "english": "Champa",
+        "spanish": "Champa"
+      },
+      "note": {
+        "chinese": "越南中南部沿海的占族诸国；最后一个公国于1832年被明命帝吞并。",
+        "english": "Cham polities along the central and southern coast; the last is annexed by Emperor Minh Mạng in 1832.",
+        "spanish": "Estados chams en la costa central y meridional; el último lo anexiona el emperador Minh Mạng en 1832."
+      },
+      "startYear": 192,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1832,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 6,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Champa"
     },
     {
       "id": "i-gt-tikal",
@@ -6319,8 +6475,9 @@
         "spanish": "Reino franco (merovingios)"
       },
       "note": {
-        "english": "Clovis I unites the Franks and founds the Merovingian dynasty.",
-        "spanish": "Clodoveo I une a los francos y funda la dinastía merovingia."
+        "chinese": "克洛维一世于509年前统一法兰克人，并征服高卢大部。",
+        "english": "Clovis I unites the Franks by 509 and conquers most of Gaul.",
+        "spanish": "Clodoveo I unifica a los francos hacia 509 y conquista la mayor parte de la Galia."
       },
       "startYear": 481,
       "startMonth": null,
@@ -6331,7 +6488,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": -3,
+      "sortOrder": 5,
       "sourceUrl": "https://en.wikipedia.org/wiki/Merovingian_dynasty"
     },
     {
@@ -6500,6 +6657,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
+    },
+    {
+      "id": "i-vn-van-xuan",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "万春国（前李朝）",
+        "english": "Vạn Xuân (Early Lý dynasty)",
+        "spanish": "Vạn Xuân (dinastía Lý Anterior)"
+      },
+      "note": {
+        "chinese": "李贲摆脱中国统治，自称李南帝；后被隋朝重新征服。",
+        "english": "Lý Bí throws off Chinese rule and takes the title Lý Nam Đế; the Sui reconquer the state.",
+        "spanish": "Lý Bí se libera del dominio chino y toma el título de Lý Nam Đế; los Sui reconquistan el Estado."
+      },
+      "startYear": 544,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 602,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 7,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Early_L%C3%BD_dynasty"
     },
     {
       "id": "i-kh-chenla",
@@ -7559,6 +7741,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-fr-tours",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "图尔战役",
+        "english": "Battle of Tours",
+        "spanish": "Batalla de Tours"
+      },
+      "note": {
+        "chinese": "查理·马特率领法兰克军队击败入侵的倭马亚军队。",
+        "english": "Charles Martel's Franks defeat the invading Umayyad army.",
+        "spanish": "Los francos de Carlos Martel derrotan al ejército omeya invasor."
+      },
+      "startYear": 732,
+      "startMonth": 10,
+      "startDay": 10,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 6,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Tours"
+    },
+    {
       "id": "i-mn-uyghur",
       "groupId": "g-mongolia",
       "label": {
@@ -7640,8 +7847,9 @@
         "spanish": "Dinastía carolingia"
       },
       "note": {
-        "english": "Pepin and Charlemagne; West Francia emerges after the Treaty of Verdun in 843.",
-        "spanish": "Pipino y Carlomagno; Francia Occidental surge tras el Tratado de Verdún en 843."
+        "chinese": "矮子丕平与查理曼的王朝；《凡尔登条约》后形成西法兰克，即法国的雏形。",
+        "english": "Pepin the Short and Charlemagne's dynasty; West Francia, the core of France, emerges after the Treaty of Verdun.",
+        "spanish": "La dinastía de Pipino el Breve y Carlomagno; tras el Tratado de Verdún surge la Francia Occidental, núcleo de Francia."
       },
       "startYear": 751,
       "startMonth": null,
@@ -7652,7 +7860,7 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": -2,
+      "sortOrder": 7,
       "sourceUrl": "https://en.wikipedia.org/wiki/Carolingian_dynasty"
     },
     {
@@ -8016,6 +8224,31 @@
       "color": null,
       "lane": null,
       "sortOrder": 0,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
+    },
+    {
+      "id": "i-fr-verdun-843",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "《凡尔登条约》",
+        "english": "Treaty of Verdun",
+        "spanish": "Tratado de Verdún"
+      },
+      "note": {
+        "chinese": "虔诚者路易的儿子们瓜分加洛林帝国，秃头查理获得西法兰克。",
+        "english": "Louis the Pious's sons split the Carolingian Empire; Charles the Bald gets West Francia.",
+        "spanish": "Los hijos de Luis el Piadoso reparten el Imperio carolingio; Carlos el Calvo recibe la Francia Occidental."
+      },
+      "startYear": 843,
+      "startMonth": 8,
+      "startDay": 10,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Verdun"
     },
     {
@@ -8598,25 +8831,54 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Icelandic_Commonwealth"
     },
     {
+      "id": "i-vn-bach-dang-938",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "白藤江之战",
+        "english": "Battle of Bạch Đằng",
+        "spanish": "Batalla de Bạch Đằng"
+      },
+      "note": {
+        "chinese": "吴权在下龙湾附近击败南汉军队，被视为越南历史的转折点。",
+        "english": "Ngô Quyền defeats the Southern Han near Hạ Long Bay, a turning point in Vietnamese history.",
+        "spanish": "Ngô Quyền derrota a los Han del Sur cerca de la bahía de Hạ Long, un punto de inflexión en la historia vietnamita."
+      },
+      "startYear": 938,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 8,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)"
+    },
+    {
       "id": "i-090",
       "groupId": "g-vietnam",
       "label": {
-        "chinese": "自主时期",
-        "english": "Dynastic period (independence)",
-        "spanish": "Periodo dinástico (independencia)"
+        "chinese": "吴朝",
+        "english": "Ngô dynasty",
+        "spanish": "Dinastía Ngô"
       },
-      "note": null,
+      "note": {
+        "chinese": "白藤江之战的胜利者吴权建立吴朝，结束了逾千年的北属时期。",
+        "english": "Ngô Quyền, victor at Bạch Đằng, founds the dynasty that ends a millennium of Chinese rule.",
+        "spanish": "Ngô Quyền, vencedor en Bạch Đằng, funda la dinastía que pone fin a un milenio de dominio chino."
+      },
       "startYear": 939,
       "startMonth": null,
       "startDay": null,
-      "endYear": 1945,
+      "endYear": 968,
       "endMonth": null,
       "endDay": null,
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 9,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ng%C3%B4_dynasty"
     },
     {
       "id": "i-060",
@@ -8764,6 +9026,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Baptism_of_Poland"
     },
     {
+      "id": "i-vn-dinh-early-le",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "丁朝与前黎朝",
+        "english": "Đinh and Early Lê dynasties",
+        "spanish": "Dinastías Đinh y Lê Anterior"
+      },
+      "note": {
+        "chinese": "丁部领平定十二使君之乱，建立大瞿越国；980年黎桓登基。",
+        "english": "Đinh Bộ Lĩnh ends the strife of the Twelve Warlords and founds Đại Cồ Việt; Lê Hoàn takes the throne in 980.",
+        "spanish": "Đinh Bộ Lĩnh acaba con la lucha de los Doce Señores y funda Đại Cồ Việt; Lê Hoàn ocupa el trono en 980."
+      },
+      "startYear": 968,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1009,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 10,
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C4%90inh_dynasty"
+    },
+    {
       "id": "i-eg-fatimid",
       "groupId": "g-egypt",
       "label": {
@@ -8889,30 +9176,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Norse_Greenland"
     },
     {
-      "id": "i-fr-capetians",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "卡佩王朝（法兰西王国）",
-        "english": "Capetian dynasty (Kingdom of France)",
-        "spanish": "Dinastía capeta (Reino de Francia)"
-      },
-      "note": {
-        "english": "Hugh Capet is elected king in 987, founding the medieval Kingdom of France.",
-        "spanish": "Hugo Capeto es elegido rey en 987, fundando el Reino de Francia medieval."
-      },
-      "startYear": 987,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1328,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "dynasty",
-      "color": null,
-      "lane": null,
-      "sortOrder": -1,
-      "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Capet"
-    },
-    {
       "id": "i-by-polotsk",
       "groupId": "g-belarus",
       "label": {
@@ -8936,6 +9199,31 @@
       "lane": null,
       "sortOrder": 2,
       "sourceUrl": "https://en.wikipedia.org/wiki/Principality_of_Polotsk"
+    },
+    {
+      "id": "i-fr-capetians",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "卡佩王朝（法兰西王国）",
+        "english": "Capetian dynasty (Kingdom of France)",
+        "spanish": "Dinastía capeta (Reino de Francia)"
+      },
+      "note": {
+        "chinese": "于格·卡佩当选国王；1328年腓力四世的儿子们均无男嗣，直系断绝。",
+        "english": "Hugh Capet is elected king; the direct line ends in 1328 when Philip IV's sons leave no male heirs.",
+        "spanish": "Hugo Capeto es elegido rey; la línea directa termina en 1328, cuando los hijos de Felipe IV no dejan herederos varones."
+      },
+      "startYear": 987,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1328,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 9,
+      "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Capet"
     },
     {
       "id": "i-203",
@@ -9130,6 +9418,31 @@
       "lane": null,
       "sortOrder": 31,
       "sourceUrl": "https://en.wikipedia.org/wiki/Maritime_republics"
+    },
+    {
+      "id": "i-vn-ly",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "李朝",
+        "english": "Lý dynasty",
+        "spanish": "Dinastía Lý"
+      },
+      "note": {
+        "chinese": "李公蕴建立李朝；国号自1054年起改为大越。",
+        "english": "Lý Công Uẩn founds the dynasty; the state is named Đại Việt from 1054.",
+        "spanish": "Lý Công Uẩn funda la dinastía; el Estado se llama Đại Việt desde 1054."
+      },
+      "startYear": 1009,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1225,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 11,
+      "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty"
     },
     {
       "id": "i-ie-clontarf",
@@ -10172,6 +10485,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Livonian_Crusade"
     },
     {
+      "id": "i-fr-albigensian",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "阿尔比十字军",
+        "english": "Albigensian Crusade",
+        "spanish": "Cruzada albigense"
+      },
+      "note": {
+        "chinese": "教宗英诺森三世发动的讨伐朗格多克卡特里派的十字军，使法国王权扩展至南方。",
+        "english": "Pope Innocent III's crusade against the Cathars of Languedoc; it extends the French crown's power to the south.",
+        "spanish": "La cruzada de Inocencio III contra los cátaros del Languedoc; extiende el poder de la corona francesa al sur."
+      },
+      "startYear": 1209,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1229,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 10,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+    },
+    {
       "id": "i-ee-danish-estonia",
       "groupId": "g-estonia",
       "label": {
@@ -10244,6 +10582,31 @@
       "lane": null,
       "sortOrder": 10,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ilkhanate"
+    },
+    {
+      "id": "i-vn-tran",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "陈朝",
+        "english": "Trần dynasty",
+        "spanish": "Dinastía Trần"
+      },
+      "note": {
+        "chinese": "统治大越，三次击退蒙古入侵。",
+        "english": "Rules Đại Việt and defeats three Mongol invasions.",
+        "spanish": "Gobierna Đại Việt y derrota tres invasiones mongolas."
+      },
+      "startYear": 1225,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1400,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 12,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_dynasty"
     },
     {
       "id": "i-dz-zayyanid",
@@ -10607,6 +10970,31 @@
       "lane": null,
       "sortOrder": 13,
       "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)"
+    },
+    {
+      "id": "i-vn-mongol-invasions",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "抗击元蒙入侵",
+        "english": "Mongol invasions repelled",
+        "spanish": "Invasiones mongolas rechazadas"
+      },
+      "note": {
+        "chinese": "蒙古与元朝四次进攻大越和占婆；1288年在白藤江遭到决定性失败。",
+        "english": "The Mongols and Yuan attack Đại Việt and Champa four times; the decisive defeat comes at Bạch Đằng River in 1288.",
+        "spanish": "Los mongoles y los Yuan atacan cuatro veces Đại Việt y Champa; la derrota decisiva llega en el río Bạch Đằng en 1288."
+      },
+      "startYear": 1258,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1288,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 13,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Vietnam"
     },
     {
       "id": "i-mn-toluid-war",
@@ -11090,6 +11478,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Ibn_Battuta"
     },
     {
+      "id": "i-fr-valois",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "瓦卢瓦王朝",
+        "english": "Valois dynasty",
+        "spanish": "Dinastía Valois"
+      },
+      "note": {
+        "chinese": "卡佩王朝直系断绝后，其旁支瓦卢瓦家族继承王位。",
+        "english": "A cadet branch of the Capetians takes the throne when the direct line dies out.",
+        "spanish": "Una rama menor de los Capetos ocupa el trono al extinguirse la línea directa."
+      },
+      "startYear": 1328,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1589,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 11,
+      "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Valois"
+    },
+    {
       "id": "i-si-habsburg",
       "groupId": "g-slovenia",
       "label": {
@@ -11138,6 +11551,31 @@
       "lane": null,
       "sortOrder": 13,
       "sourceUrl": "https://en.wikipedia.org/wiki/Vijayanagara_Empire"
+    },
+    {
+      "id": "i-fr-hundred-years-war",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "英法百年战争",
+        "english": "Hundred Years' War",
+        "spanish": "Guerra de los Cien Años"
+      },
+      "note": {
+        "chinese": "英法因爱德华三世对法国王位的主张而交战，战争同时也是法国的内战。",
+        "english": "England and France fight over Edward III's claim to the French throne, in a war that also divides France.",
+        "spanish": "Inglaterra y Francia luchan por la reclamación de Eduardo III al trono francés, en una guerra que también divide a Francia."
+      },
+      "startYear": 1337,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1453,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 12,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
     },
     {
       "id": "i-ee-st-georges-night",
@@ -11869,6 +12307,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Malacca_Sultanate"
     },
     {
+      "id": "i-vn-ho",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "胡朝",
+        "english": "Hồ dynasty",
+        "spanish": "Dinastía Hồ"
+      },
+      "note": {
+        "chinese": "胡季犛篡位，改国号为大虞；1407年被明朝吞并。",
+        "english": "Hồ Quý Ly seizes the throne and renames the state Đại Ngu; the Ming annex it in 1407.",
+        "spanish": "Hồ Quý Ly toma el trono y rebautiza el Estado como Đại Ngu; los Ming lo anexionan en 1407."
+      },
+      "startYear": 1400,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1407,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 14,
+      "sourceUrl": "https://en.wikipedia.org/wiki/H%E1%BB%93_dynasty"
+    },
+    {
       "id": "i-010",
       "groupId": "g-china",
       "label": {
@@ -11897,7 +12360,11 @@
         "english": "Fourth Chinese domination (Ming rule)",
         "spanish": "Cuarta dominación china (dominio Ming)"
       },
-      "note": null,
+      "note": {
+        "chinese": "明朝吞并大虞，设交趾布政使司，直至蓝山起义将其逐出。",
+        "english": "Ming China annexes Đại Ngu as Jiaozhi province until the Lam Sơn uprising drives it out.",
+        "spanish": "La China Ming anexiona Đại Ngu como provincia de Jiaozhi hasta que la rebelión de Lam Sơn la expulsa."
+      },
       "startYear": 1407,
       "startMonth": null,
       "startDay": null,
@@ -11907,8 +12374,8 @@
       "kind": "colonial",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 15,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnam_under_Chinese_rule"
     },
     {
       "id": "i-pl-grunwald",
@@ -11985,6 +12452,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Age_of_Discovery"
     },
     {
+      "id": "i-vn-lam-son",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "蓝山起义",
+        "english": "Lam Sơn uprising",
+        "spanish": "Rebelión de Lam Sơn"
+      },
+      "note": {
+        "chinese": "黎利领导起义军驱逐明军，建立后黎朝。",
+        "english": "Lê Lợi's rebels drive out the Ming and found the Later Lê dynasty.",
+        "spanish": "Los rebeldes de Lê Lợi expulsan a los Ming y fundan la dinastía Lê Posterior."
+      },
+      "startYear": 1418,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1427,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 16,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lam_S%C6%A1n_uprising"
+    },
+    {
       "id": "i-cz-hussite-wars",
       "groupId": "g-czechia",
       "label": {
@@ -12033,6 +12525,56 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Venetian_Dalmatia"
+    },
+    {
+      "id": "i-vn-later-le",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "后黎朝",
+        "english": "Later Lê dynasty",
+        "spanish": "Dinastía Lê Posterior"
+      },
+      "note": {
+        "chinese": "越南统治时间最长的王朝；1533年后皇帝在位，实权归郑主和阮主。",
+        "english": "Vietnam's longest-ruling dynasty; after 1533 its emperors reign while the Trịnh and Nguyễn lords rule.",
+        "spanish": "La dinastía más longeva de Vietnam; desde 1533 sus emperadores reinan mientras gobiernan los señores Trịnh y Nguyễn."
+      },
+      "startYear": 1428,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1789,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 17,
+      "sourceUrl": "https://en.wikipedia.org/wiki/L%C3%AA_dynasty"
+    },
+    {
+      "id": "i-fr-joan-of-arc",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "圣女贞德",
+        "english": "Joan of Arc",
+        "spanish": "Juana de Arco"
+      },
+      "note": {
+        "chinese": "她解奥尔良之围并促成查理七世加冕；1431年被处以火刑。",
+        "english": "She relieves the siege of Orléans and secures Charles VII's coronation; she is burned in 1431.",
+        "spanish": "Levanta el sitio de Orleans y asegura la coronación de Carlos VII; muere en la hoguera en 1431."
+      },
+      "startYear": 1429,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1431,
+      "endMonth": 5,
+      "endDay": 30,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 13,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joan_of_Arc"
     },
     {
       "id": "i-kh-post-angkor",
@@ -12524,6 +13066,31 @@
       "lane": null,
       "sortOrder": 4,
       "sourceUrl": "https://en.wikipedia.org/wiki/Catholic_Monarchs"
+    },
+    {
+      "id": "i-vn-vijaya-1471",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "大越攻陷毗阇耶",
+        "english": "Đại Việt takes Vijaya",
+        "spanish": "Đại Việt toma Vijaya"
+      },
+      "note": {
+        "chinese": "黎圣宗攻陷占婆最大的城邦，普遍被视为占婆衰亡的标志。",
+        "english": "Lê Thánh Tông sacks Champa's largest city-state, widely seen as the downfall of Champa.",
+        "spanish": "Lê Thánh Tông saquea la mayor ciudad-Estado de Champa, considerado el inicio de su caída."
+      },
+      "startYear": 1471,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 18,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Champa%E2%80%93%C4%90%E1%BA%A1i_Vi%E1%BB%87t_War_(1471)"
     },
     {
       "id": "i-es-inquisition",
@@ -13770,6 +14337,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Kingdom_of_Croatia_(Habsburg)"
     },
     {
+      "id": "i-vn-mac",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "莫朝",
+        "english": "Mạc dynasty",
+        "spanish": "Dinastía Mạc"
+      },
+      "note": {
+        "chinese": "莫登庸篡夺黎朝皇位；1592年黎朝和郑主将莫氏逐出京城。",
+        "english": "Mạc Đăng Dung usurps the Lê throne; the Lê and the Trịnh lords drive the Mạc from the capital in 1592.",
+        "spanish": "Mạc Đăng Dung usurpa el trono Lê; los Lê y los señores Trịnh expulsan a los Mạc de la capital en 1592."
+      },
+      "startYear": 1527,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1592,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 19,
+      "sourceUrl": "https://en.wikipedia.org/wiki/M%E1%BA%A1c_dynasty"
+    },
+    {
       "id": "i-et-adal-war",
       "groupId": "g-ethiopia",
       "label": {
@@ -13961,6 +14553,31 @@
       "lane": null,
       "sortOrder": 10,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ottoman_Iraq"
+    },
+    {
+      "id": "i-fr-new-france",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "新法兰西",
+        "english": "New France",
+        "spanish": "Nueva Francia"
+      },
+      "note": {
+        "chinese": "从雅克·卡蒂埃探索圣劳伦斯湾到1763年《巴黎条约》将其割让给英国和西班牙。",
+        "english": "From Jacques Cartier's exploration of the St Lawrence to the 1763 Treaty of Paris, which cedes it to Britain and Spain.",
+        "spanish": "Desde la exploración del San Lorenzo por Jacques Cartier hasta el Tratado de París de 1763, que la cede a Gran Bretaña y España."
+      },
+      "startYear": 1534,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1763,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 14,
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_France"
     },
     {
       "id": "i-ar-colonization",
@@ -14424,6 +15041,31 @@
       "lane": null,
       "sortOrder": 5,
       "sourceUrl": "https://en.wikipedia.org/wiki/Swedish_Estonia"
+    },
+    {
+      "id": "i-fr-wars-of-religion",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国宗教战争",
+        "english": "French Wars of Religion",
+        "spanish": "Guerras de religión de Francia"
+      },
+      "note": {
+        "chinese": "天主教徒与胡格诺派交战，二至四百万人死亡，包括1572年的圣巴托洛缪大屠杀。",
+        "english": "Catholics fight Huguenots; two to four million die, including in the 1572 St Bartholomew's Day massacre.",
+        "spanish": "Católicos y hugonotes se enfrentan; mueren entre dos y cuatro millones, incluida la matanza de San Bartolomé de 1572."
+      },
+      "startYear": 1562,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1598,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 15,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Wars_of_Religion"
     },
     {
       "id": "i-073",
@@ -14956,6 +15598,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Armada"
     },
     {
+      "id": "i-fr-bourbon",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "波旁王朝",
+        "english": "Bourbon dynasty",
+        "spanish": "Dinastía borbónica"
+      },
+      "note": {
+        "chinese": "卡佩王朝的另一旁支，从亨利四世到1792年被废黜的路易十六。",
+        "english": "Another Capetian branch, from Henry IV to Louis XVI, who is deposed in 1792.",
+        "spanish": "Otra rama de los Capetos, de Enrique IV a Luis XVI, depuesto en 1792."
+      },
+      "startYear": 1589,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1792,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 16,
+      "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Bourbon"
+    },
+    {
       "id": "i-kr-imjin",
       "groupId": "g-korea",
       "label": {
@@ -15003,6 +15670,31 @@
       "lane": null,
       "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Union_of_Brest"
+    },
+    {
+      "id": "i-fr-edict-of-nantes",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "《南特敕令》",
+        "english": "Edict of Nantes",
+        "spanish": "Edicto de Nantes"
+      },
+      "note": {
+        "chinese": "亨利四世给予胡格诺派广泛权利，结束了宗教战争。",
+        "english": "Henry IV grants the Huguenots substantial rights, ending the Wars of Religion.",
+        "spanish": "Enrique IV concede amplios derechos a los hugonotes y pone fin a las guerras de religión."
+      },
+      "startYear": 1598,
+      "startMonth": 4,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 17,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Edict_of_Nantes"
     },
     {
       "id": "i-ro-michael-the-brave",
@@ -15448,6 +16140,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-vn-trinh-nguyen",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "郑阮纷争",
+        "english": "Trịnh–Nguyễn War",
+        "spanish": "Guerra Trịnh–Nguyễn"
+      },
+      "note": {
+        "chinese": "北方的郑主与南方的阮主交战陷入僵局，最终以灵江为界。",
+        "english": "The Trịnh lords of the north and the Nguyễn lords of the south fight to a stalemate; the Linh River becomes their border.",
+        "spanish": "Los señores Trịnh del norte y los Nguyễn del sur luchan hasta un punto muerto; el río Linh pasa a ser su frontera."
+      },
+      "startYear": 1627,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1672,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 20,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n_War"
+    },
+    {
       "id": "i-ma-alaouite",
       "groupId": "g-morocco",
       "label": {
@@ -15705,6 +16422,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_New_Zealand"
     },
     {
+      "id": "i-fr-louis-xiv",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "太阳王路易十四",
+        "english": "Louis XIV, the Sun King",
+        "spanish": "Luis XIV, el Rey Sol"
+      },
+      "note": {
+        "chinese": "史上在位最久的君主；这位专制君主的凡尔赛宫廷引领欧洲文化。",
+        "english": "The longest reign in history; an absolute monarch whose court at Versailles sets the culture of Europe.",
+        "spanish": "El reinado más largo de la historia; un monarca absoluto cuya corte de Versalles marca la cultura europea."
+      },
+      "startYear": 1643,
+      "startMonth": 5,
+      "startDay": 14,
+      "endYear": 1715,
+      "endMonth": 9,
+      "endDay": 1,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 18,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louis_XIV"
+    },
+    {
       "id": "i-009",
       "groupId": "g-china",
       "label": {
@@ -15943,11 +16685,15 @@
       "id": "i-027",
       "groupId": "g-france",
       "label": {
-        "chinese": "大同盟战争",
-        "english": "War of the League of Augsburg",
-        "spanish": "Guerra de la Liga de Augsburgo"
+        "chinese": "大同盟战争（九年战争）",
+        "english": "Nine Years' War",
+        "spanish": "Guerra de los Nueve Años"
       },
-      "note": null,
+      "note": {
+        "chinese": "路易十四治下的法国与大同盟交战，又称奥格斯堡同盟战争。",
+        "english": "Louis XIV's France fights the Grand Alliance, also called the War of the League of Augsburg.",
+        "spanish": "La Francia de Luis XIV lucha contra la Gran Alianza; también llamada guerra de la Liga de Augsburgo."
+      },
       "startYear": 1688,
       "startMonth": null,
       "startDay": null,
@@ -15957,8 +16703,8 @@
       "kind": "war",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 19,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nine_Years%27_War"
     },
     {
       "id": "i-mn-galdan",
@@ -16110,27 +16856,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Decline_and_modernization_of_the_Ottoman_Empire"
     },
     {
-      "id": "i-028",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "西班牙王位继承战争",
-        "english": "War of the Spanish Succession",
-        "spanish": "Guerra de Sucesión Española"
-      },
-      "note": null,
-      "startYear": 1701,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1714,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-gh-ashanti",
       "groupId": "g-ghana",
       "label": {
@@ -16201,6 +16926,31 @@
       "color": null,
       "lane": null,
       "sortOrder": 12,
+      "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession"
+    },
+    {
+      "id": "i-028",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "西班牙王位继承战争",
+        "english": "War of the Spanish Succession",
+        "spanish": "Guerra de Sucesión Española"
+      },
+      "note": {
+        "chinese": "路易十四支持其孙安茹的腓力继承西班牙王位，与大同盟交战。",
+        "english": "Louis XIV backs his grandson Philip of Anjou for the Spanish throne against the Grand Alliance.",
+        "spanish": "Luis XIV apoya a su nieto Felipe de Anjou para el trono español frente a la Gran Alianza."
+      },
+      "startYear": 1701,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1714,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 20,
       "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession"
     },
     {
@@ -16402,27 +17152,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Afsharid_dynasty"
     },
     {
-      "id": "i-029",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "奥地利王位继承战争",
-        "english": "War of the Austrian Succession",
-        "spanish": "Guerra de Sucesión Austriaca"
-      },
-      "note": null,
-      "startYear": 1740,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1748,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-at-maria-theresa",
       "groupId": "g-austria",
       "label": {
@@ -16446,6 +17175,31 @@
       "lane": null,
       "sortOrder": 6,
       "sourceUrl": "https://en.wikipedia.org/wiki/Maria_Theresa"
+    },
+    {
+      "id": "i-029",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "奥地利王位继承战争",
+        "english": "War of the Austrian Succession",
+        "spanish": "Guerra de Sucesión Austriaca"
+      },
+      "note": {
+        "chinese": "法国加入反对玛丽亚·特蕾莎继承奥地利的联盟。",
+        "english": "France joins the coalition that challenges Maria Theresa's right to inherit Austria.",
+        "spanish": "Francia se une a la coalición que disputa a María Teresa el derecho a heredar Austria."
+      },
+      "startYear": 1740,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1748,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 21,
+      "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
     {
       "id": "i-islam-wahhabi",
@@ -16515,6 +17269,31 @@
       "lane": null,
       "sortOrder": 14,
       "sourceUrl": "https://en.wikipedia.org/wiki/Zand_dynasty"
+    },
+    {
+      "id": "i-fr-encyclopedie",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "《百科全书》",
+        "english": "Encyclopédie",
+        "spanish": "Encyclopédie"
+      },
+      "note": {
+        "chinese": "狄德罗与达朗贝尔主编的百科全书，法国启蒙运动的代表作。",
+        "english": "Diderot and d'Alembert's encyclopedia, the great work of the French Enlightenment.",
+        "spanish": "La enciclopedia de Diderot y d'Alembert, la gran obra de la Ilustración francesa."
+      },
+      "startYear": 1751,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1772,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "literature",
+      "color": null,
+      "lane": null,
+      "sortOrder": 22,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die"
     },
     {
       "id": "i-mm-konbaung",
@@ -16590,27 +17369,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake"
     },
     {
-      "id": "i-030",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "七年战争",
-        "english": "Seven Years' War",
-        "spanish": "Guerra de los Siete Años"
-      },
-      "note": null,
-      "startYear": 1756,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1763,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-mn-chingunjav",
       "groupId": "g-mongolia",
       "label": {
@@ -16634,6 +17392,31 @@
       "lane": null,
       "sortOrder": 21,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ching%C3%BCnjav"
+    },
+    {
+      "id": "i-030",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "七年战争",
+        "english": "Seven Years' War",
+        "spanish": "Guerra de los Siete Años"
+      },
+      "note": {
+        "chinese": "法国与奥地利对抗英国和普鲁士；法国在1763年和约中失去新法兰西。",
+        "english": "France and Austria fight Britain and Prussia; France loses New France in the 1763 peace.",
+        "spanish": "Francia y Austria luchan contra Gran Bretaña y Prusia; Francia pierde Nueva Francia en la paz de 1763."
+      },
+      "startYear": 1756,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1763,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 23,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
     },
     {
       "id": "i-019",
@@ -16921,27 +17704,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus"
     },
     {
-      "id": "i-031",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "美国独立战争",
-        "english": "American Revolutionary War",
-        "spanish": "Guerra de Independencia de los Estados Unidos"
-      },
-      "note": null,
-      "startYear": 1775,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1783,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-cz-national-revival",
       "groupId": "g-czechia",
       "label": {
@@ -16965,6 +17727,31 @@
       "lane": null,
       "sortOrder": 7,
       "sourceUrl": "https://en.wikipedia.org/wiki/Czech_National_Revival"
+    },
+    {
+      "id": "i-031",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国参与美国独立战争",
+        "english": "France in the American Revolutionary War",
+        "spanish": "Francia en la guerra de independencia estadounidense"
+      },
+      "note": {
+        "chinese": "作为英国的对手、又失去了新法兰西，法国自1776年起秘密援助起义者，随后与其并肩作战。",
+        "english": "Rival of Britain and loser of New France, France secretly supplies the rebels from 1776 and then fights beside them.",
+        "spanish": "Rival de Gran Bretaña y tras perder Nueva Francia, Francia abastece en secreto a los rebeldes desde 1776 y luego combate a su lado."
+      },
+      "startYear": 1775,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1783,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 24,
+      "sourceUrl": "https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War"
     },
     {
       "id": "i-ar-viceroyalty",
@@ -17158,27 +17945,6 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Laki"
     },
     {
-      "id": "i-092",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "西山朝",
-        "english": "Tây Sơn dynasty",
-        "spanish": "Dinastía Tây Sơn"
-      },
-      "note": null,
-      "startYear": 1788,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1802,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "dynasty",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-au-first-fleet",
       "groupId": "g-australia",
       "label": {
@@ -17203,25 +17969,29 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/First_Fleet"
     },
     {
-      "id": "i-072",
-      "groupId": "g-france",
+      "id": "i-092",
+      "groupId": "g-vietnam",
       "label": {
-        "chinese": "法国大革命",
-        "english": "The French Revolution",
-        "spanish": "La Revolución Francesa"
+        "chinese": "西山朝",
+        "english": "Tây Sơn dynasty",
+        "spanish": "Dinastía Tây Sơn"
       },
-      "note": null,
-      "startYear": 1789,
-      "startMonth": 5,
-      "startDay": 5,
-      "endYear": 1799,
-      "endMonth": 11,
-      "endDay": 9,
-      "kind": "politics",
+      "note": {
+        "chinese": "西山起义的阮氏兄弟结束郑阮纷争，推翻后黎朝，统一全国。",
+        "english": "Rebel brothers from Tây Sơn end the Trịnh–Nguyễn split, overthrow the Lê and unite the country.",
+        "spanish": "Los hermanos rebeldes de Tây Sơn acaban con la división Trịnh–Nguyễn, derrocan a los Lê y unifican el país."
+      },
+      "startYear": 1788,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1802,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 21,
+      "sourceUrl": "https://en.wikipedia.org/wiki/T%C3%A2y_S%C6%A1n_dynasty"
     },
     {
       "id": "i-ir-qajar",
@@ -17246,6 +18016,31 @@
       "lane": null,
       "sortOrder": 15,
       "sourceUrl": "https://en.wikipedia.org/wiki/Qajar_dynasty"
+    },
+    {
+      "id": "i-072",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国大革命",
+        "english": "The French Revolution",
+        "spanish": "La Revolución Francesa"
+      },
+      "note": {
+        "chinese": "从三级会议到拿破仑的雾月政变；其理念奠定了自由民主的基础。",
+        "english": "From the Estates General to Napoleon's coup of 18 Brumaire; its ideas shape liberal democracy.",
+        "spanish": "De los Estados Generales al golpe de Napoleón del 18 de brumario; sus ideas moldean la democracia liberal."
+      },
+      "startYear": 1789,
+      "startMonth": 5,
+      "startDay": 5,
+      "endYear": 1799,
+      "endMonth": 11,
+      "endDay": 9,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 25,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Revolution"
     },
     {
       "id": "i-cu-sugar-slavery",
@@ -17345,6 +18140,31 @@
       "lane": null,
       "sortOrder": 3,
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Ukraine"
+    },
+    {
+      "id": "i-fr-terror",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "恐怖统治",
+        "english": "Reign of Terror",
+        "spanish": "Reinado del Terror"
+      },
+      "note": {
+        "chinese": "公共安全委员会推行大规模处决，以罗伯斯庇尔倒台告终。",
+        "english": "The Committee of Public Safety's mass executions, ending with Robespierre's fall.",
+        "spanish": "Las ejecuciones masivas del Comité de Salvación Pública, que terminan con la caída de Robespierre."
+      },
+      "startYear": 1793,
+      "startMonth": 9,
+      "startDay": 17,
+      "endYear": 1794,
+      "endMonth": 7,
+      "endDay": 28,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 26,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Reign_of_Terror"
     },
     {
       "id": "i-lt-russian",
@@ -17570,7 +18390,11 @@
         "english": "Nguyễn dynasty",
         "spanish": "Dinastía Nguyễn"
       },
-      "note": null,
+      "note": {
+        "chinese": "越南最后一个王朝，1883年沦为法国保护国前保持独立；1945年保大帝退位后终结。",
+        "english": "Vietnam's last dynasty, independent until the French protectorate of 1883; it ends when Bảo Đại abdicates in 1945.",
+        "spanish": "La última dinastía de Vietnam, independiente hasta el protectorado francés de 1883; termina con la abdicación de Bảo Đại en 1945."
+      },
       "startYear": 1802,
       "startMonth": null,
       "startDay": null,
@@ -17580,29 +18404,8 @@
       "kind": "dynasty",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
-      "id": "i-007",
-      "groupId": "g-france",
-      "label": {
-        "chinese": "拿破仑战争",
-        "english": "Napoleonic Wars",
-        "spanish": "Guerras napoleónicas"
-      },
-      "note": null,
-      "startYear": 1803,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1815,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 22,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty"
     },
     {
       "id": "i-127",
@@ -17624,6 +18427,31 @@
       "lane": null,
       "sortOrder": 0,
       "sourceUrl": null
+    },
+    {
+      "id": "i-007",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "拿破仑战争",
+        "english": "Napoleonic Wars",
+        "spanish": "Guerras napoleónicas"
+      },
+      "note": {
+        "chinese": "欧洲反法同盟与拿破仑的法国交战，直至1815年拿破仑最终战败。",
+        "english": "European coalitions fight Napoleon's France until his final defeat in 1815.",
+        "spanish": "Las coaliciones europeas combaten a la Francia de Napoleón hasta su derrota final en 1815."
+      },
+      "startYear": 1803,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1815,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 27,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
     },
     {
       "id": "i-ng-sokoto",
@@ -17699,6 +18527,56 @@
       "lane": null,
       "sortOrder": 8,
       "sourceUrl": "https://en.wikipedia.org/wiki/Austrian_Empire"
+    },
+    {
+      "id": "i-fr-civil-code",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "《拿破仑法典》",
+        "english": "Napoleonic Code",
+        "spanish": "Código Napoleónico"
+      },
+      "note": {
+        "chinese": "法国民法典，经大量修订后至今仍然有效。",
+        "english": "France's civil code, still in force today though heavily amended.",
+        "spanish": "El código civil francés, aún vigente aunque muy enmendado."
+      },
+      "startYear": 1804,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 28,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Code"
+    },
+    {
+      "id": "i-fr-first-empire",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第一帝国",
+        "english": "First French Empire",
+        "spanish": "Primer Imperio francés"
+      },
+      "note": {
+        "chinese": "拿破仑称霸欧洲大陆大部；随其退位及百日王朝后的最终流放而终结。",
+        "english": "Napoleon rules much of continental Europe; it ends with his abdication and, after the Hundred Days, his final exile.",
+        "spanish": "Napoleón domina gran parte de la Europa continental; termina con su abdicación y, tras los Cien Días, su exilio definitivo."
+      },
+      "startYear": 1804,
+      "startMonth": 5,
+      "startDay": 18,
+      "endYear": 1815,
+      "endMonth": 7,
+      "endDay": 7,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 29,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_French_Empire"
     },
     {
       "id": "i-eg-muhammad-ali-dynasty",
@@ -18211,6 +19089,31 @@
       "lane": null,
       "sortOrder": 9,
       "sourceUrl": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+    },
+    {
+      "id": "i-fr-restoration",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "波旁复辟",
+        "english": "Bourbon Restoration",
+        "spanish": "Restauración borbónica"
+      },
+      "note": {
+        "chinese": "拿破仑倒台后波旁王朝复辟，国家迎来和平与繁荣。",
+        "english": "The Bourbons return after Napoleon's fall; a period of peace and prosperity.",
+        "spanish": "Los Borbones vuelven tras la caída de Napoleón; un periodo de paz y prosperidad."
+      },
+      "startYear": 1814,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1830,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 30,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bourbon_Restoration_in_France"
     },
     {
       "id": "i-be-waterloo",
@@ -18920,6 +19823,56 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_P%C3%A1ez"
     },
     {
+      "id": "i-fr-colonial-empire",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第二殖民帝国",
+        "english": "Second colonial empire",
+        "spanish": "Segundo imperio colonial"
+      },
+      "note": {
+        "chinese": "从征服阿尔及利亚开始，法国在非洲和亚洲建立殖民帝国。",
+        "english": "Beginning with the conquest of Algeria, France builds an empire in Africa and Asia.",
+        "spanish": "A partir de la conquista de Argelia, Francia construye un imperio en África y Asia."
+      },
+      "startYear": 1830,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1962,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "colonial",
+      "color": null,
+      "lane": null,
+      "sortOrder": 31,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_colonial_empire"
+    },
+    {
+      "id": "i-fr-july-monarchy",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "七月王朝",
+        "english": "July Monarchy",
+        "spanish": "Monarquía de Julio"
+      },
+      "note": {
+        "chinese": "七月革命使路易·菲利普一世成为自由派立宪君主。",
+        "english": "The July Revolution brings Louis Philippe I to power as a liberal constitutional monarch.",
+        "spanish": "La Revolución de Julio lleva al poder a Luis Felipe I como monarca constitucional liberal."
+      },
+      "startYear": 1830,
+      "startMonth": 8,
+      "startDay": 9,
+      "endYear": 1848,
+      "endMonth": 2,
+      "endDay": 24,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 32,
+      "sourceUrl": "https://en.wikipedia.org/wiki/July_Monarchy"
+    },
+    {
       "id": "i-co-gran-colombia-end",
       "groupId": "g-colombia",
       "label": {
@@ -19404,6 +20357,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Revolutions_of_1848_in_the_Austrian_Empire"
     },
     {
+      "id": "i-fr-second-republic",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第二共和国",
+        "english": "Second Republic",
+        "spanish": "Segunda República"
+      },
+      "note": {
+        "chinese": "1848年革命推翻君主制；总统路易-拿破仑将共和国改为帝国。",
+        "english": "The 1848 revolution ends the monarchy; President Louis-Napoléon turns the republic into an empire.",
+        "spanish": "La revolución de 1848 acaba con la monarquía; el presidente Luis Napoleón convierte la república en imperio."
+      },
+      "startYear": 1848,
+      "startMonth": 2,
+      "startDay": null,
+      "endYear": 1852,
+      "endMonth": 12,
+      "endDay": 2,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 33,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Second_Republic"
+    },
+    {
       "id": "i-it-risorgimento",
       "groupId": "g-italy",
       "label": {
@@ -19546,6 +20524,31 @@
       "lane": null,
       "sortOrder": 5,
       "sourceUrl": "https://en.wikipedia.org/wiki/Principality_of_Montenegro"
+    },
+    {
+      "id": "i-fr-second-empire",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第二帝国（拿破仑三世）",
+        "english": "Second Empire (Napoleon III)",
+        "spanish": "Segundo Imperio (Napoleón III)"
+      },
+      "note": {
+        "chinese": "拿破仑三世的帝国，基础设施与经济大发展的时代；在普法战争中崩溃。",
+        "english": "Napoleon III's empire, an era of infrastructure and economic growth; it collapses in the war with Prussia.",
+        "spanish": "El imperio de Napoleón III, una época de grandes obras y crecimiento económico; se derrumba en la guerra con Prusia."
+      },
+      "startYear": 1852,
+      "startMonth": 12,
+      "startDay": 2,
+      "endYear": 1870,
+      "endMonth": 9,
+      "endDay": 4,
+      "kind": "dynasty",
+      "color": null,
+      "lane": null,
+      "sortOrder": 34,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Second_French_Empire"
     },
     {
       "id": "i-cu-marti",
@@ -19761,6 +20764,31 @@
       "sourceUrl": null
     },
     {
+      "id": "i-vn-cochinchina",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "法国征服交趾支那",
+        "english": "French conquest of Cochinchina",
+        "spanish": "Conquista francesa de la Cochinchina"
+      },
+      "note": {
+        "chinese": "法西联军进攻阮朝，揭开法国征服越南的序幕。",
+        "english": "A Franco-Spanish expedition attacks the Nguyễn state, opening the French conquest of Vietnam.",
+        "spanish": "Una expedición franco-española ataca el Estado Nguyễn y abre la conquista francesa de Vietnam."
+      },
+      "startYear": 1858,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1862,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 23,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cochinchina_campaign"
+    },
+    {
       "id": "i-ro-union-1859",
       "groupId": "g-romania",
       "label": {
@@ -19888,7 +20916,11 @@
         "english": "French colonial period",
         "spanish": "Período colonial francés"
       },
-      "note": null,
+      "note": {
+        "chinese": "法国于1862年夺取交趾支那，至1887年控制越南全境，将其纳入法属印度支那。",
+        "english": "France takes Cochinchina in 1862 and the rest of Vietnam by 1887, ruling it within French Indochina.",
+        "spanish": "Francia toma la Cochinchina en 1862 y el resto de Vietnam en 1887, y lo gobierna dentro de la Indochina francesa."
+      },
       "startYear": 1862,
       "startMonth": null,
       "startDay": null,
@@ -19898,8 +20930,8 @@
       "kind": "colonial",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 24,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Indochina"
     },
     {
       "id": "i-kh-french-protectorate",
@@ -20426,6 +21458,56 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco"
     },
     {
+      "id": "i-fr-franco-prussian",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "普法战争",
+        "english": "Franco-Prussian War",
+        "spanish": "Guerra franco-prusiana"
+      },
+      "note": {
+        "chinese": "法国战败，第二帝国终结，并失去阿尔萨斯-洛林。",
+        "english": "France's defeat ends the Second Empire and costs it Alsace-Lorraine.",
+        "spanish": "La derrota de Francia acaba con el Segundo Imperio y le cuesta Alsacia-Lorena."
+      },
+      "startYear": 1870,
+      "startMonth": 7,
+      "startDay": 19,
+      "endYear": 1871,
+      "endMonth": 1,
+      "endDay": 28,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 35,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+      "id": "i-fr-third-republic",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第三共和国",
+        "english": "Third Republic",
+        "spanish": "Tercera República"
+      },
+      "note": {
+        "chinese": "帝国崩溃时宣告成立的议会制共和国，延续至1940年法国沦陷。",
+        "english": "A parliamentary republic proclaimed as the Empire falls; it lasts until the Fall of France in 1940.",
+        "spanish": "Una república parlamentaria proclamada al caer el Imperio; dura hasta la caída de Francia en 1940."
+      },
+      "startYear": 1870,
+      "startMonth": 9,
+      "startDay": 4,
+      "endYear": 1940,
+      "endMonth": 7,
+      "endDay": 10,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 36,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Third_Republic"
+    },
+    {
       "id": "i-gt-liberal-reform",
       "groupId": "g-guatemala",
       "label": {
@@ -20473,6 +21555,31 @@
       "lane": null,
       "sortOrder": 10,
       "sourceUrl": "https://en.wikipedia.org/wiki/German_Empire"
+    },
+    {
+      "id": "i-fr-paris-commune",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "巴黎公社",
+        "english": "Paris Commune",
+        "spanish": "Comuna de París"
+      },
+      "note": {
+        "chinese": "革命政府控制巴黎约十周，后被军队镇压。",
+        "english": "A revolutionary government holds Paris for ten weeks until the army crushes it.",
+        "spanish": "Un gobierno revolucionario controla París diez semanas hasta que el ejército lo aplasta."
+      },
+      "startYear": 1871,
+      "startMonth": 3,
+      "startDay": 18,
+      "endYear": 1871,
+      "endMonth": 5,
+      "endDay": 28,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 37,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paris_Commune"
     },
     {
       "id": "i-id-aceh-war",
@@ -21648,6 +22755,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
     },
     {
+      "id": "i-fr-dreyfus",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "德雷福斯事件",
+        "english": "Dreyfus affair",
+        "spanish": "Caso Dreyfus"
+      },
+      "note": {
+        "chinese": "一名犹太裔上尉被冤判叛国罪，丑闻令共和国分裂，直至其平反。",
+        "english": "A Jewish army captain is wrongly convicted of treason; the scandal divides the Republic until he is cleared.",
+        "spanish": "Un capitán judío es condenado injustamente por traición; el escándalo divide a la República hasta su rehabilitación."
+      },
+      "startYear": 1894,
+      "startMonth": 12,
+      "startDay": null,
+      "endYear": 1906,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 38,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dreyfus_affair"
+    },
+    {
       "id": "i-ke-british-rule",
       "groupId": "g-kenya",
       "label": {
@@ -22199,6 +23331,31 @@
       "lane": null,
       "sortOrder": 16,
       "sourceUrl": "https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution"
+    },
+    {
+      "id": "i-fr-laicite-1905",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "政教分离法",
+        "english": "Separation of church and state",
+        "spanish": "Separación de la Iglesia y el Estado"
+      },
+      "note": {
+        "chinese": "1905年法律确立国家世俗原则（laïcité）。",
+        "english": "The 1905 law establishes state secularism (laïcité).",
+        "spanish": "La ley de 1905 establece la laicidad del Estado."
+      },
+      "startYear": 1905,
+      "startMonth": 12,
+      "startDay": 9,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "religion",
+      "color": null,
+      "lane": null,
+      "sortOrder": 39,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1905_French_law_on_the_Separation_of_the_Churches_and_the_State"
     },
     {
       "id": "i-by-nasha-niva",
@@ -23066,6 +24223,31 @@
       "lane": null,
       "sortOrder": 14,
       "sourceUrl": "https://en.wikipedia.org/wiki/Ottoman_Empire_in_World_War_I"
+    },
+    {
+      "id": "i-fr-wwi",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国与第一次世界大战",
+        "english": "France in World War I",
+        "spanish": "Francia en la Primera Guerra Mundial"
+      },
+      "note": {
+        "chinese": "法军主要在西线作战，在法国和比利时进行堑壕战。",
+        "english": "Most French fighting is on the Western Front, a war of trenches in France and Belgium.",
+        "spanish": "La mayor parte de los combates franceses se libran en el frente occidental, una guerra de trincheras en Francia y Bélgica."
+      },
+      "startYear": 1914,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1918,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 40,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Army_in_World_War_I"
     },
     {
       "id": "i-si-isonzo",
@@ -24784,6 +25966,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Infamous_Decade"
     },
     {
+      "id": "i-vn-communist-party",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南共产党成立",
+        "english": "Communist Party founded",
+        "spanish": "Fundación del Partido Comunista"
+      },
+      "note": {
+        "chinese": "越南共产党成立，同年10月更名为印度支那共产党，后领导越盟。",
+        "english": "The Vietnamese Communist Party is founded and renamed the Indochinese Communist Party in October; it later leads the Viet Minh.",
+        "spanish": "Se funda el Partido Comunista de Vietnam, rebautizado en octubre como Partido Comunista de Indochina; después dirige el Viet Minh."
+      },
+      "startYear": 1930,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 25,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indochinese_Communist_Party"
+    },
+    {
       "id": "i-sv-military-rule",
       "groupId": "g-el-salvador",
       "label": {
@@ -25089,6 +26296,31 @@
       "lane": null,
       "sortOrder": 17,
       "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+    },
+    {
+      "id": "i-fr-popular-front",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "人民阵线",
+        "english": "Popular Front",
+        "spanish": "Frente Popular"
+      },
+      "note": {
+        "chinese": "共产党、社会党和激进党组成的联盟赢得1936年5月大选。",
+        "english": "An alliance of communists, socialists and radicals wins the May 1936 election.",
+        "spanish": "Una alianza de comunistas, socialistas y radicales gana las elecciones de mayo de 1936."
+      },
+      "startYear": 1936,
+      "startMonth": 5,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 41,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Popular_Front_(France)"
     },
     {
       "id": "i-by-kurapaty",
@@ -25799,6 +27031,31 @@
       "lane": null,
       "sortOrder": 41,
       "sourceUrl": "https://en.wikipedia.org/wiki/Military_history_of_Italy_during_World_War_II"
+    },
+    {
+      "id": "i-fr-vichy",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国沦陷与维希政权",
+        "english": "Fall of France and Vichy",
+        "spanish": "Caída de Francia y Vichy"
+      },
+      "note": {
+        "chinese": "德国于1940年5至6月攻占法国；贝当元帅在维希领导合作政权。",
+        "english": "Germany overruns France in May–June 1940; Marshal Pétain heads a collaborating state at Vichy.",
+        "spanish": "Alemania arrolla Francia en mayo y junio de 1940; el mariscal Pétain encabeza un Estado colaboracionista en Vichy."
+      },
+      "startYear": 1940,
+      "startMonth": 5,
+      "startDay": 10,
+      "endYear": 1944,
+      "endMonth": 8,
+      "endDay": 9,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 42,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vichy_France"
     },
     {
       "id": "i-070",
@@ -26524,6 +27781,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_Uprising"
     },
     {
+      "id": "i-vn-famine-1945",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "1945年大饥荒",
+        "english": "Famine of 1945",
+        "spanish": "Hambruna de 1945"
+      },
+      "note": {
+        "chinese": "日军占领下的越南北部发生饥荒，估计40万至200万人饿死。",
+        "english": "Famine in the Japanese-occupied north kills an estimated 400,000 to 2 million people.",
+        "spanish": "La hambruna en el norte ocupado por Japón mata a entre 400.000 y 2 millones de personas, según las estimaciones."
+      },
+      "startYear": 1944,
+      "startMonth": 10,
+      "startDay": null,
+      "endYear": 1945,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "other",
+      "color": null,
+      "lane": null,
+      "sortOrder": 26,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnamese_famine_of_1944%E2%80%931945"
+    },
+    {
       "id": "i-by-bagration",
       "groupId": "g-belarus",
       "label": {
@@ -26549,6 +27831,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Bagration"
     },
     {
+      "id": "i-fr-liberation",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法国解放",
+        "english": "Liberation of France",
+        "spanish": "Liberación de Francia"
+      },
+      "note": {
+        "chinese": "盟军、自由法国和抵抗运动解放法国；巴黎于8月25日解放。",
+        "english": "The Allies, the Free French and the Resistance free France; Paris is freed on 25 August.",
+        "spanish": "Los Aliados, la Francia Libre y la Resistencia liberan Francia; París queda libre el 25 de agosto."
+      },
+      "startYear": 1944,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 43,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Liberation_of_France"
+    },
+    {
       "id": "i-074",
       "groupId": "g-us",
       "label": {
@@ -26563,48 +27870,6 @@
       "endYear": 1964,
       "endMonth": null,
       "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
-      "id": "i-088",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "越南民主共和国（北越）",
-        "english": "Democratic Republic of Vietnam (North Vietnam)",
-        "spanish": "República Democrática de Vietnam (Vietnam del Norte)"
-      },
-      "note": null,
-      "startYear": 1945,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1976,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
-      "id": "i-093",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "越南帝国（日属时期）",
-        "english": "Empire of Vietnam (Japanese-backed)",
-        "spanish": "Imperio de Vietnam (bajo respaldo japonés)"
-      },
-      "note": null,
-      "startYear": 1945,
-      "startMonth": 3,
-      "startDay": 11,
-      "endYear": 1945,
-      "endMonth": 8,
-      "endDay": 30,
       "kind": "politics",
       "color": null,
       "lane": null,
@@ -26981,6 +28246,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Lao_Issara"
     },
     {
+      "id": "i-093",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南帝国（日属时期）",
+        "english": "Empire of Vietnam (Japanese-backed)",
+        "spanish": "Imperio de Vietnam (bajo respaldo japonés)"
+      },
+      "note": {
+        "chinese": "保大帝在日本扶持下宣布脱离法国独立；八月革命后终结。",
+        "english": "Bảo Đại declares independence from France under Japanese sponsorship; the August Revolution ends it.",
+        "spanish": "Bảo Đại proclama la independencia de Francia bajo patrocinio japonés; la Revolución de Agosto le pone fin."
+      },
+      "startYear": 1945,
+      "startMonth": 3,
+      "startDay": 11,
+      "endYear": 1945,
+      "endMonth": 8,
+      "endDay": 30,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 27,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Empire_of_Vietnam"
+    },
+    {
       "id": "i-by-postwar",
       "groupId": "g-belarus",
       "label": {
@@ -27004,6 +28294,56 @@
       "lane": null,
       "sortOrder": 28,
       "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Belarus#Post-war_BSSR"
+    },
+    {
+      "id": "i-vn-august-revolution",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "八月革命",
+        "english": "August Revolution",
+        "spanish": "Revolución de Agosto"
+      },
+      "note": {
+        "chinese": "越盟从日本人和越南帝国手中夺取政权；胡志明于9月2日宣布独立。",
+        "english": "The Viet Minh seize power from the Japanese and the Empire of Vietnam; Hồ Chí Minh declares independence on 2 September.",
+        "spanish": "El Viet Minh toma el poder a los japoneses y al Imperio de Vietnam; Hồ Chí Minh proclama la independencia el 2 de septiembre."
+      },
+      "startYear": 1945,
+      "startMonth": 8,
+      "startDay": 16,
+      "endYear": 1945,
+      "endMonth": 8,
+      "endDay": 30,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 28,
+      "sourceUrl": "https://en.wikipedia.org/wiki/August_Revolution"
+    },
+    {
+      "id": "i-088",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南民主共和国（北越）",
+        "english": "Democratic Republic of Vietnam (North Vietnam)",
+        "spanish": "República Democrática de Vietnam (Vietnam del Norte)"
+      },
+      "note": {
+        "chinese": "胡志明在河内宣布独立；1954年后称北越，1976年与南方合并。",
+        "english": "Hồ Chí Minh declares independence in Hanoi; North Vietnam after 1954, it merges with the South in 1976.",
+        "spanish": "Hồ Chí Minh proclama la independencia en Hanói; Vietnam del Norte desde 1954, se une con el Sur en 1976."
+      },
+      "startYear": 1945,
+      "startMonth": 9,
+      "startDay": 2,
+      "endYear": 1976,
+      "endMonth": 7,
+      "endDay": 2,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 29,
+      "sourceUrl": "https://en.wikipedia.org/wiki/North_Vietnam"
     },
     {
       "id": "i-mn-1945-referendum",
@@ -27150,6 +28490,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Greek_Civil_War"
     },
     {
+      "id": "i-vn-first-indochina-war",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "第一次印度支那战争",
+        "english": "First Indochina War",
+        "spanish": "Primera guerra de Indochina"
+      },
+      "note": {
+        "chinese": "越盟与法兰西联邦交战，战事主要发生在越南。",
+        "english": "The Viet Minh fight the French Union; most of the fighting is in Vietnam.",
+        "spanish": "El Viet Minh lucha contra la Unión Francesa; la mayoría de los combates tienen lugar en Vietnam."
+      },
+      "startYear": 1946,
+      "startMonth": 12,
+      "startDay": 19,
+      "endYear": 1954,
+      "endMonth": 8,
+      "endDay": 11,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 30,
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Indochina_War"
+    },
+    {
       "id": "i-it-republic",
       "groupId": "g-italy",
       "label": {
@@ -27172,6 +28537,31 @@
       "lane": null,
       "sortOrder": 42,
       "sourceUrl": "https://en.wikipedia.org/wiki/Italy"
+    },
+    {
+      "id": "i-fr-fourth-republic",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第四共和国",
+        "english": "Fourth Republic",
+        "spanish": "Cuarta República"
+      },
+      "note": {
+        "chinese": "战后议会制共和国，政府如第三共和国般动荡；因阿尔及利亚问题垮台。",
+        "english": "A postwar parliamentary republic with the same unstable governments as the Third; it falls over Algeria.",
+        "spanish": "Una república parlamentaria de posguerra con gobiernos tan inestables como los de la Tercera; cae por Argelia."
+      },
+      "startYear": 1946,
+      "startMonth": 10,
+      "startDay": 27,
+      "endYear": 1958,
+      "endMonth": 10,
+      "endDay": 4,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 44,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Fourth_Republic"
     },
     {
       "id": "i-078",
@@ -27889,27 +29279,6 @@
       "sourceUrl": null
     },
     {
-      "id": "i-095",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "越南国（法属）",
-        "english": "State of Vietnam (French Union)",
-        "spanish": "Estado de Vietnam (Unión Francesa)"
-      },
-      "note": null,
-      "startYear": 1949,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1955,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
       "id": "i-cr-second-republic",
       "groupId": "g-costa-rica",
       "label": {
@@ -27982,6 +29351,31 @@
       "lane": null,
       "sortOrder": 15,
       "sourceUrl": "https://en.wikipedia.org/wiki/Divided_Germany"
+    },
+    {
+      "id": "i-095",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南国（法属）",
+        "english": "State of Vietnam (French Union)",
+        "spanish": "Estado de Vietnam (Unión Francesa)"
+      },
+      "note": {
+        "chinese": "保大帝领导的法兰西联邦成员国，宣称统治全越南；1954年6月起完全独立。",
+        "english": "Bảo Đại's state in the French Union, claiming all of Vietnam; fully independent from June 1954.",
+        "spanish": "El Estado de Bảo Đại en la Unión Francesa, que reclama todo Vietnam; plenamente independiente desde junio de 1954."
+      },
+      "startYear": 1949,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1955,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 31,
+      "sourceUrl": "https://en.wikipedia.org/wiki/State_of_Vietnam"
     },
     {
       "id": "i-079",
@@ -28368,6 +29762,81 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Algerian_War"
     },
     {
+      "id": "i-vn-dien-bien-phu",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "奠边府战役",
+        "english": "Battle of Điện Biên Phủ",
+        "spanish": "Batalla de Điện Biên Phủ"
+      },
+      "note": {
+        "chinese": "越盟在西北击败法兰西联邦守军，决定了战争的结局。",
+        "english": "The Viet Minh defeat the French Union garrison in the northwest, deciding the war.",
+        "spanish": "El Viet Minh derrota a la guarnición de la Unión Francesa en el noroeste y decide la guerra."
+      },
+      "startYear": 1954,
+      "startMonth": 3,
+      "startDay": 13,
+      "endYear": 1954,
+      "endMonth": 5,
+      "endDay": 7,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 32,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu"
+    },
+    {
+      "id": "i-vn-geneva-1954",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "日内瓦协议",
+        "english": "Geneva Accords",
+        "spanish": "Acuerdos de Ginebra"
+      },
+      "note": {
+        "chinese": "越南以北纬17度线为界分治，该线原定为临时分界线。",
+        "english": "Vietnam is partitioned at the 17th parallel, meant as a provisional border.",
+        "spanish": "Vietnam se divide en el paralelo 17, concebido como frontera provisional."
+      },
+      "startYear": 1954,
+      "startMonth": 7,
+      "startDay": 21,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 33,
+      "sourceUrl": "https://en.wikipedia.org/wiki/1954_Geneva_Conference"
+    },
+    {
+      "id": "i-fr-algerian-war",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "阿尔及利亚战争",
+        "english": "Algerian War",
+        "spanish": "Guerra de Argelia"
+      },
+      "note": {
+        "chinese": "法国与民族解放阵线交战；战争导致第四共和国垮台，以阿尔及利亚独立告终。",
+        "english": "France fights the FLN; the war brings down the Fourth Republic and ends with Algerian independence.",
+        "spanish": "Francia lucha contra el FLN; la guerra derriba la Cuarta República y termina con la independencia de Argelia."
+      },
+      "startYear": 1954,
+      "startMonth": 11,
+      "startDay": 1,
+      "endYear": 1962,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 45,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Algerian_War"
+    },
+    {
       "id": "i-080",
       "groupId": "g-us",
       "label": {
@@ -28383,27 +29852,6 @@
       "endMonth": 4,
       "endDay": 30,
       "kind": "war",
-      "color": null,
-      "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
-    },
-    {
-      "id": "i-096",
-      "groupId": "g-vietnam",
-      "label": {
-        "chinese": "越南共和国（南越）",
-        "english": "Republic of Vietnam (South Vietnam)",
-        "spanish": "República de Vietnam (Vietnam del Sur)"
-      },
-      "note": null,
-      "startYear": 1955,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1975,
-      "endMonth": null,
-      "endDay": null,
-      "kind": "politics",
       "color": null,
       "lane": null,
       "sortOrder": 0,
@@ -28554,6 +30002,56 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/Hindu_code_bills"
+    },
+    {
+      "id": "i-096",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南共和国（南越）",
+        "english": "Republic of Vietnam (South Vietnam)",
+        "spanish": "República de Vietnam (Vietnam del Sur)"
+      },
+      "note": {
+        "chinese": "以西贡为首都的越南国继承者，属西方阵营；1975年随西贡陷落而灭亡。",
+        "english": "The Saigon-based successor to the State of Vietnam, in the Western bloc; it falls with Saigon in 1975.",
+        "spanish": "El sucesor del Estado de Vietnam, con capital en Saigón y en el bloque occidental; cae con Saigón en 1975."
+      },
+      "startYear": 1955,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1975,
+      "endMonth": 4,
+      "endDay": 30,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 34,
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Vietnam"
+    },
+    {
+      "id": "i-vn-vietnam-war",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南战争",
+        "english": "Vietnam War",
+        "spanish": "Guerra de Vietnam"
+      },
+      "note": {
+        "chinese": "由苏联和中国支持的北越与美国支持的南越交战，战火蔓延至老挝和柬埔寨。",
+        "english": "North Vietnam, backed by the USSR and China, fights the US-backed South; the war spreads into Laos and Cambodia.",
+        "spanish": "Vietnam del Norte, apoyado por la URSS y China, lucha contra el Sur, respaldado por EE. UU.; la guerra se extiende a Laos y Camboya."
+      },
+      "startYear": 1955,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": 1975,
+      "endMonth": 4,
+      "endDay": 30,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 35,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnam_War"
     },
     {
       "id": "i-ng-oil-discovered",
@@ -29001,6 +30499,31 @@
       "lane": null,
       "sortOrder": 17,
       "sourceUrl": "https://en.wikipedia.org/wiki/Puntofijo_Pact"
+    },
+    {
+      "id": "i-fr-fifth-republic",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "法兰西第五共和国",
+        "english": "Fifth Republic",
+        "spanish": "Quinta República"
+      },
+      "note": {
+        "chinese": "夏尔·戴高乐建立延续至今的半总统制共和国。",
+        "english": "Charles de Gaulle founds the semi-presidential republic that still governs France.",
+        "spanish": "Charles de Gaulle funda la república semipresidencial que aún gobierna Francia."
+      },
+      "startYear": 1958,
+      "startMonth": 10,
+      "startDay": 4,
+      "endYear": 2026,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 46,
+      "sourceUrl": "https://en.wikipedia.org/wiki/French_Fifth_Republic"
     },
     {
       "id": "i-105",
@@ -30746,25 +32269,54 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Ba%27athist_Iraq"
     },
     {
-      "id": "i-094",
+      "id": "i-vn-tet-offensive",
       "groupId": "g-vietnam",
       "label": {
-        "chinese": "越南南方共和临时革命政府",
-        "english": "Provisional Revolutionary Government of South Vietnam",
-        "spanish": "Gobierno Revolucionario Provisional de Vietnam del Sur"
+        "chinese": "春节攻势",
+        "english": "Tet Offensive",
+        "spanish": "Ofensiva del Tet"
       },
-      "note": null,
-      "startYear": 1969,
-      "startMonth": null,
-      "startDay": null,
-      "endYear": 1976,
+      "note": {
+        "chinese": "北越军和越共在农历新年对南越各地发动突袭。",
+        "english": "North Vietnamese and Viet Cong forces launch surprise attacks across the South at Lunar New Year.",
+        "spanish": "Las fuerzas norvietnamitas y del Viet Cong lanzan ataques por sorpresa en todo el Sur durante el Año Nuevo lunar."
+      },
+      "startYear": 1968,
+      "startMonth": 1,
+      "startDay": 30,
+      "endYear": null,
       "endMonth": null,
       "endDay": null,
-      "kind": "politics",
+      "kind": "war",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 36,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tet_Offensive"
+    },
+    {
+      "id": "i-fr-may-68",
+      "groupId": "g-france",
+      "label": {
+        "chinese": "五月风暴",
+        "english": "May 68",
+        "spanish": "Mayo del 68"
+      },
+      "note": {
+        "chinese": "学生抗议演变为数百万工人参加的全国总罢工。",
+        "english": "Student protests grow into a nationwide general strike of millions of workers.",
+        "spanish": "Las protestas estudiantiles se convierten en una huelga general nacional de millones de trabajadores."
+      },
+      "startYear": 1968,
+      "startMonth": 5,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "movement",
+      "color": null,
+      "lane": null,
+      "sortOrder": 47,
+      "sourceUrl": "https://en.wikipedia.org/wiki/May_68"
     },
     {
       "id": "i-kh-us-bombing",
@@ -30914,6 +32466,31 @@
       "lane": null,
       "sortOrder": 12,
       "sourceUrl": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+      "id": "i-094",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南南方共和临时革命政府",
+        "english": "Provisional Revolutionary Government of South Vietnam",
+        "spanish": "Gobierno Revolucionario Provisional de Vietnam del Sur"
+      },
+      "note": {
+        "chinese": "北越联合越共在南方成立对立政府；1975年至统一期间治理南方。",
+        "english": "North Vietnam forms a rival government in the South with the Viet Cong; it governs there from 1975 until reunification.",
+        "spanish": "Vietnam del Norte forma con el Viet Cong un gobierno rival en el Sur; lo administra desde 1975 hasta la reunificación."
+      },
+      "startYear": 1969,
+      "startMonth": 6,
+      "startDay": 8,
+      "endYear": 1976,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 37,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Provisional_Revolutionary_Government_of_the_Republic_of_South_Vietnam"
     },
     {
       "id": "i-kh-khmer-republic",
@@ -31560,25 +33137,54 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Lao_People%27s_Revolutionary_Party"
     },
     {
-      "id": "i-089",
+      "id": "i-vn-boat-people",
       "groupId": "g-vietnam",
       "label": {
-        "chinese": "越南社会主义共和国",
-        "english": "Socialist Republic of Vietnam",
-        "spanish": "República Socialista de Vietnam"
+        "chinese": "越南船民",
+        "english": "Boat people",
+        "spanish": "Balseros vietnamitas"
       },
-      "note": null,
-      "startYear": 1976,
+      "note": {
+        "chinese": "难民从海上出逃；至1995年近80万人抵达他国，另有许多人葬身大海。",
+        "english": "Refugees flee by sea; almost 800,000 reach other countries by 1995, and many die at sea.",
+        "spanish": "Los refugiados huyen por mar; casi 800.000 llegan a otros países hasta 1995, y muchos mueren en el mar."
+      },
+      "startYear": 1975,
       "startMonth": null,
       "startDay": null,
-      "endYear": 2026,
+      "endYear": 1995,
       "endMonth": null,
       "endDay": null,
-      "kind": "politics",
+      "kind": "other",
       "color": null,
       "lane": null,
-      "sortOrder": 0,
-      "sourceUrl": null
+      "sortOrder": 38,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnamese_boat_people"
+    },
+    {
+      "id": "i-vn-fall-of-saigon",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "西贡陷落",
+        "english": "Fall of Saigon",
+        "spanish": "Caída de Saigón"
+      },
+      "note": {
+        "chinese": "北越攻占西贡，战争结束；1976年正式统一。",
+        "english": "North Vietnam captures Saigon, ending the war; formal reunification follows in 1976.",
+        "spanish": "Vietnam del Norte toma Saigón y pone fin a la guerra; la reunificación formal llega en 1976."
+      },
+      "startYear": 1975,
+      "startMonth": 4,
+      "startDay": 30,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 39,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_Saigon"
     },
     {
       "id": "i-ar-dirty-war",
@@ -31703,6 +33309,31 @@
       "lane": null,
       "sortOrder": 19,
       "sourceUrl": "https://en.wikipedia.org/wiki/PDVSA"
+    },
+    {
+      "id": "i-089",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "越南社会主义共和国",
+        "english": "Socialist Republic of Vietnam",
+        "spanish": "República Socialista de Vietnam"
+      },
+      "note": {
+        "chinese": "南北越合并为越南社会主义共和国，由越南共产党执政。",
+        "english": "North and South Vietnam merge into the Socialist Republic, ruled by the Communist Party.",
+        "spanish": "Vietnam del Norte y del Sur se unen en la República Socialista, gobernada por el Partido Comunista."
+      },
+      "startYear": 1976,
+      "startMonth": 7,
+      "startDay": 2,
+      "endYear": 2026,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 40,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vietnam"
     },
     {
       "id": "i-pk-zia",
@@ -31872,6 +33503,31 @@
       "sourceUrl": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
     },
     {
+      "id": "i-vn-cambodia-war",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "柬越战争",
+        "english": "Cambodian–Vietnamese War",
+        "spanish": "Guerra camboyano-vietnamita"
+      },
+      "note": {
+        "chinese": "越南入侵柬埔寨，推翻红色高棉政权，1989年撤军。",
+        "english": "Vietnam invades Cambodia and topples the Khmer Rouge, withdrawing in 1989.",
+        "spanish": "Vietnam invade Camboya y derroca a los Jemeres Rojos; se retira en 1989."
+      },
+      "startYear": 1978,
+      "startMonth": 12,
+      "startDay": null,
+      "endYear": 1989,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 41,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War"
+    },
+    {
       "id": "i-sv-civil-war",
       "groupId": "g-el-salvador",
       "label": {
@@ -32015,6 +33671,31 @@
       "lane": null,
       "sortOrder": 23,
       "sourceUrl": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty"
+    },
+    {
+      "id": "i-vn-sino-vietnamese-war",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "中越战争",
+        "english": "Sino-Vietnamese War",
+        "spanish": "Guerra chino-vietnamita"
+      },
+      "note": {
+        "chinese": "中国以越南占领柬埔寨为由进攻越南北部，约一个月后撤军。",
+        "english": "China invades northern Vietnam in response to the occupation of Cambodia and withdraws after about a month.",
+        "spanish": "China invade el norte de Vietnam en respuesta a la ocupación de Camboya y se retira al cabo de un mes."
+      },
+      "startYear": 1979,
+      "startMonth": 2,
+      "startDay": null,
+      "endYear": 1979,
+      "endMonth": 3,
+      "endDay": null,
+      "kind": "war",
+      "color": null,
+      "lane": null,
+      "sortOrder": 42,
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sino-Vietnamese_War"
     },
     {
       "id": "i-eu-parliament-elections",
@@ -32791,6 +34472,31 @@
       "lane": null,
       "sortOrder": 29,
       "sourceUrl": "https://en.wikipedia.org/wiki/Effects_of_the_Chernobyl_disaster"
+    },
+    {
+      "id": "i-vn-doi-moi",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "革新开放",
+        "english": "Đổi Mới reforms",
+        "spanish": "Reformas Đổi Mới"
+      },
+      "note": {
+        "chinese": "改革推动越南从计划经济转向“社会主义定向的市场经济”。",
+        "english": "Reforms move Vietnam from a command economy to a \"socialist-oriented market economy\".",
+        "spanish": "Las reformas llevan a Vietnam de una economía planificada a una «economía de mercado de orientación socialista»."
+      },
+      "startYear": 1986,
+      "startMonth": null,
+      "startDay": null,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "economy",
+      "color": null,
+      "lane": null,
+      "sortOrder": 43,
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
     },
     {
       "id": "i-eu-single-act",
@@ -34902,6 +36608,31 @@
       "lane": null,
       "sortOrder": 14,
       "sourceUrl": "https://en.wikipedia.org/wiki/Celtic_Tiger"
+    },
+    {
+      "id": "i-vn-1995",
+      "groupId": "g-vietnam",
+      "label": {
+        "chinese": "加入东盟，与美国关系正常化",
+        "english": "Joins ASEAN; US ties restored",
+        "spanish": "Ingreso en la ASEAN y normalización con EE. UU."
+      },
+      "note": {
+        "chinese": "越南成为东盟第七个成员国，并与美国实现外交关系正常化。",
+        "english": "Vietnam becomes ASEAN's seventh member and normalises diplomatic relations with the United States.",
+        "spanish": "Vietnam se convierte en el séptimo miembro de la ASEAN y normaliza sus relaciones diplomáticas con Estados Unidos."
+      },
+      "startYear": 1995,
+      "startMonth": 7,
+      "startDay": 28,
+      "endYear": null,
+      "endMonth": null,
+      "endDay": null,
+      "kind": "politics",
+      "color": null,
+      "lane": null,
+      "sortOrder": 44,
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States%E2%80%93Vietnam_relations"
     },
     {
       "id": "i-cd-first-congo-war",
